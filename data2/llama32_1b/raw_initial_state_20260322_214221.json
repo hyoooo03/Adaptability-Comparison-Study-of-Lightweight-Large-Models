@@ -1,0 +1,29 @@
+{
+  "timestamp_iso": "2026-03-22T21:42:21.644331",
+  "system_uptime_sec": 123.66,
+  "thermal": {
+    "cpu_temp_c": 29.8
+  },
+  "frequency": {
+    "cpu_freq_mhz": 2400.033792,
+    "nominal_limit_mhz": 2400,
+    "throttle_limit_mhz": 2280.0
+  },
+  "memory": {
+    "total_mb": 8062.9375,
+    "used_mb": 285.96875,
+    "free_mb": 7632.546875,
+    "available_mb": 7776.96875,
+    "buff_cache_mb": 209.28125,
+    "shared_mb": 13.859375
+  },
+  "gpu_estimate": {
+    "estimated_vram_usage_mb": 4,
+    "detection_method": "vcgencmd_get_mem",
+    "note": "若无独立显存，此处为共享内存(SHMEM)近似值，代表GPU潜在占用"
+  },
+  "environment": {
+    "ambient_threshold_c": 45.0,
+    "test_duration_min": 15
+  }
+}

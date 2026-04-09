@@ -1,0 +1,14 @@
+{
+  "timestamp_iso": "2026-03-25T00:06:04.833347",
+  "cpu_temp_c": 43.0,
+  "throttled_status_hex": "0x0",
+  "throttled_status_low16": 0,
+  "is_currently_throttled": false,
+  "ram_used_mb": 283.453125,
+  "model_name": "qwen3:1.7b",
+  "config": {
+    "cooldown_target_temp": 60.0,
+    "throttle_mask_hex": "0xe",
+    "target_samples": 100
+  }
+}

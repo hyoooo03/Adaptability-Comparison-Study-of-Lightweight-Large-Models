@@ -1,0 +1,3202 @@
+[
+  {
+    "sample_id": "B01",
+    "category": "SelfIntro",
+    "type": "Basic",
+    "prompt": "你好，请简单介绍一下你自己。",
+    "response": "我是机器人，目前正在学习和适应人类的交流方式。 tôi是一种智能型chatbots，旨在用来提供信息、回答问题、和与 humans Communicate。",
+    "metrics": {
+      "ttft_ms": 17371.787786483765,
+      "tps": 8.7128950650555,
+      "tokens": 43,
+      "duration_s": 22.30700159072876,
+      "peak_mem_mb": 1915.390625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:42:53.861193",
+      "temp_start_c": 32.0,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B02",
+    "category": "Knowledge",
+    "type": "Basic",
+    "prompt": "谁是中国的第一任主席？",
+    "response": "中国的第一任主席是毛泽东。",
+    "metrics": {
+      "ttft_ms": 771.7118263244629,
+      "tps": 8.205145059052125,
+      "tokens": 12,
+      "duration_s": 2.234208822250366,
+      "peak_mem_mb": 1893.53125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:42:56.397656",
+      "temp_start_c": 37.5,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B03",
+    "category": "Concept",
+    "type": "Basic",
+    "prompt": "请用一句话解释什么是人工智能。",
+    "response": "人工智能是一种能够通过学习和自动化完成机器任务的技术，使用计算机和数据来分析、预测和决策。",
+    "metrics": {
+      "ttft_ms": 873.938798904419,
+      "tps": 8.740649580939968,
+      "tokens": 33,
+      "duration_s": 4.649401903152466,
+      "peak_mem_mb": 1879.890625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:43:01.349247",
+      "temp_start_c": 39.15,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B04",
+    "category": "Geography",
+    "type": "Basic",
+    "prompt": "中国的首都是哪里？它有哪些著名的景点？",
+    "response": "中国的首都是北京。 Beijing 是一座大都会城市，位于中国中部北部，是国家级重点 tourist attractions 的中心。其著名景点包括：\n\n1.  Forbidden City：是 China's imperial palace，占地面积约 4.8 平方公里。\n2.  Great Wall of China：是世界上最长的墙，可以容纳近400万人。\n3.  Temple of Heaven：是一个以佛教为主的文化景点，是中国的national ritual center。\n4.  Summer Palace：一个公园，拥有18个池塘，31座小桥，多个水塔和花园。\n5.  Beijing National Museum：是中国历史、艺术和科学的一个综合博物馆。",
+    "metrics": {
+      "ttft_ms": 986.3276481628418,
+      "tps": 8.335241827920886,
+      "tokens": 156,
+      "duration_s": 19.702041387557983,
+      "peak_mem_mb": 1862.015625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:43:21.353513",
+      "temp_start_c": 40.8,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B05",
+    "category": "History",
+    "type": "Basic",
+    "prompt": "唐朝是中国历史上哪个朝代？请列举一位著名的唐朝诗人。",
+    "response": "唐朝是中国历史上的朝代， lasted 13 年（907-960）。",
+    "metrics": {
+      "ttft_ms": 1232.6407432556152,
+      "tps": 9.071540290219074,
+      "tokens": 19,
+      "duration_s": 3.3271031379699707,
+      "peak_mem_mb": 1834.265625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:43:24.982834",
+      "temp_start_c": 44.65,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B06",
+    "category": "Science",
+    "type": "Basic",
+    "prompt": "水的化学式是什么？它在什么温度下结冰？",
+    "response": "水的化学式是H2O，表示水素（hydrogen）和氧气（oxygen）。这是水的基本组成。\n\n水在零度（0 degrees Celsius或32 degrees Fahrenheit）时会开始结冰。这个过程称为氢化水的分解温度，也就是 saying水从0摄氏度开始就会 froze into ice.",
+    "metrics": {
+      "ttft_ms": 930.0532341003418,
+      "tps": 8.436435357245275,
+      "tokens": 77,
+      "duration_s": 10.057130813598633,
+      "peak_mem_mb": 1834.328125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:43:35.342182",
+      "temp_start_c": 44.65,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B07",
+    "category": "Culture",
+    "type": "Basic",
+    "prompt": "中国的传统节日春节通常在公历的几月份？人们会吃什么特色食物？",
+    "response": "中国的传统节日春节通常在2月或3月之间发生。一些重要的春节节日包括:\n\n* 除夕节（12月31日）\n* 新年（1月1日）\n\n这些节日是中国最重要的传统节日之一，人们会庆祝它们的一些特点和习俗。\n\n在这些节日中，人们通常会吃一些特色食物。有些例子包括:\n\n* 鸡蛋：这是春节中最常见的食物之一。\n* 燥肉：这是春节期间吃的典型肉类，是由烤火锅或烧烤制作。\n* 鲜菜：在许多中国家庭中，人们会将一些美丽的蔬菜，如青菜、蒜菜和水果，放在家里，以象征健康和生机。\n* 皮蛋：这是一个小块白蛋白，与鸡蛋类似，但比其轻得多。它也是春节中的一部分。\n\n这些食物和习俗在不同的国家和地区可能有所不同，所以也请注意其他的文化习俗。",
+    "metrics": {
+      "ttft_ms": 1266.0706043243408,
+      "tps": 8.38354364963203,
+      "tokens": 243,
+      "duration_s": 30.251426935195923,
+      "peak_mem_mb": 1832.03125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:44:05.895984",
+      "temp_start_c": 46.3,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B08",
+    "category": "Tech",
+    "type": "Basic",
+    "prompt": "什么是 5G 技术？它比 4G 快在哪里？",
+    "response": "5G 是一種 wireless网络技术，旨在提供高-speed、低延迟和多个设备支持的能力。它是 4G 的 successor，也就是说，它可以更快地处理数据并提供更好的连接速度。\n\n5G 技术的主要特点是：\n\n1. 高速数据传输：5G 可以传递大型 multimedia 数据，包括视频、音频和图像。\n2. 低延迟：5G 可以减少连接延迟，使用户能够在同一位置看到 video 和音频的时间间隔更短。\n3. 多设备支持：5G 可以同时支持多个设备，例如手机、平板电脑、智能-home devices 等。\n\n5G 的优势包括：\n\n* 提供更快的数据传输速度\n* 支持更大的连接数量\n* 提供更好的覆盖面积和覆盖率\n\n现在，什么是 5G 快于 4G 在哪里呢？\n\n* 在中国，5G 已经接入广泛，许多城市已经实现 5G 的覆盖范围。\n* 在北美，5G 在一些 cities 中已经提供，例如 Toronto、New York和Los Angeles。\n* 在 Europe，5G 正在扩展，包括英国、德国和法兰西西亚-奥斯曼（FoFrank）等。\n\n5G 的优势在哪里？\n\n* 5G 提供更快的数据传输速度\n* 5G 支持更多设备和连接数\n* 5G 提供更好的覆盖面积和覆盖率\n\n但是在哪里 5G 快于 4G?\n\n* 在中国，4G 是更加普及的技术，许多城市已经实现 4G 的覆盖范围。\n* 在一些地区，4G 是更加先进的技术，例如在北美和 Europe 中。\n\n总而言之，5G 是一种更快、更高效的 wireless网络技术，它可以提供更多的数据传输速度和连接数。虽然 5G 可能比 4G 快，但这取决于具体应用场景和地区的覆盖范围。",
+    "metrics": {
+      "ttft_ms": 1023.3752727508545,
+      "tps": 7.184778733986432,
+      "tokens": 457,
+      "duration_s": 64.63006615638733,
+      "peak_mem_mb": 1821.59375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:45:10.829244",
+      "temp_start_c": 50.15,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B09",
+    "category": "Life",
+    "type": "Basic",
+    "prompt": "如果外面下雨了，出门应该带什么？",
+    "response": "如果外面下雨了，出门时应该带上：\n\n1.  waterproof 或水-resistant的拎包或袋子，可以保护您的东西免于水和阳光的影响。\n2.  防晒霜或者防紫外线的眼镜（如果您会被阳光照射）。\n3.  口腔液（口罩）来保护您的嘴唇和舌头免受空气中的污染。\n4.  脱水衣或运动套，包括雨布、雨鞋或雨衣等，以防止水泡和伤害。\n5.  一些人还会带上额头、耳朵的外露器具，如遮面霜或者毛巾，以保护皮肤免受阳光和空气中的污染。\n\n请记住，安全是首要关注的事情。如果您不确定是否应该出门或需要特别 precautions，请谨慎决定。",
+    "metrics": {
+      "ttft_ms": 902.8306007385254,
+      "tps": 7.818405235752255,
+      "tokens": 203,
+      "duration_s": 26.867204904556274,
+      "peak_mem_mb": 1823.140625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:45:37.998666",
+      "temp_start_c": 53.45,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B10",
+    "category": "Health",
+    "type": "Basic",
+    "prompt": "成年人每天建议喝多少杯水？",
+    "response": "根据世界卫生组织（WHO）和美国心脏协会（AHA）的指南，成人每天应饮用大约8-10杯水。然而，这个数值可以根据个人需求和身体状况进行调整。\n\n例如：\n\n* 一个平均成年人的体重人体的热量需要是每日1000 calorie以上。\n* 每升水有约80毫升（0.3ounce）浓度。\n* 每天饮用8-10杯水相当于每周约600毫升（20 ounce）的水。\n\n请注意，一些运动员或活跃的人可能需要更多的水。他们可能应该在加强身体活动时额外饮用水，以帮助保持体液平衡和避免脱水。\n\n总之，成人每天应尽量保持适当的水分摄入量，根据个人需求和身体状况进行调整。",
+    "metrics": {
+      "ttft_ms": 830.394983291626,
+      "tps": 8.443328282273361,
+      "tokens": 191,
+      "duration_s": 23.45180606842041,
+      "peak_mem_mb": 1825.125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:46:01.753673",
+      "temp_start_c": 55.65,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B11",
+    "category": "Idiom_Simple",
+    "type": "Basic",
+    "prompt": "请解释成语‘画蛇添足’的意思。",
+    "response": "\"画蛇添足\"是一句成语，意为 \"在一方说到尽了，就往另一方说些不合适的话\"。这句话说明要避免在一个话题上再加上一些不必要或不合适的内容，这样会造成损害或影响关系。",
+    "metrics": {
+      "ttft_ms": 937.66188621521,
+      "tps": 8.33179164742969,
+      "tokens": 67,
+      "duration_s": 8.979149580001831,
+      "peak_mem_mb": 1823.5,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:46:11.035062",
+      "temp_start_c": 56.2,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B12",
+    "category": "Poetry_Simple",
+    "type": "Basic",
+    "prompt": "请背诵《静夜思》的全诗。",
+    "response": "静夜思\n\n白月光下，夜深人家\n空中传来一声长 whistle\n寒风叹息，远方山川\n如同心脏的跳动不已\n\n白月光下，夜深人家\n窗户外， darkness 绘色\n星空上 twinkling，微微发光\n like 你的爱情\n\n黑河流淌，夜深人家\n寒风叹息，声响传来\n如同心脏的跳动不已\n your  love\n\n白月光下，夜深人家\n窗户外， darkness 绘色\n星空上 twinkling，微微发光\n like 你的爱情\n\n黑河流淌，夜深人家\n寒风叹息，声响传来\n如同心脏的跳动不已\n your  love\n\n静night思\n\n(末句)\n\n白月光下，夜深人家\n空中传来一声长 whistle",
+    "metrics": {
+      "ttft_ms": 826.4987468719482,
+      "tps": 8.221830432564538,
+      "tokens": 218,
+      "duration_s": 27.341275691986084,
+      "peak_mem_mb": 1830.171875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:46:38.678544",
+      "temp_start_c": 55.1,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B13",
+    "category": "Math_Simple",
+    "type": "Basic",
+    "prompt": "15 乘以 8 等于多少？",
+    "response": "15 乘以 8 等于 120。",
+    "metrics": {
+      "ttft_ms": 804.8946857452393,
+      "tps": 7.775285689524609,
+      "tokens": 12,
+      "duration_s": 2.3482463359832764,
+      "peak_mem_mb": 1820.953125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:46:41.328983",
+      "temp_start_c": 56.75,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B14",
+    "category": "Logic_Simple",
+    "type": "Basic",
+    "prompt": "如果所有的猫都喜欢吃鱼，咪咪是一只猫，那么咪咪喜欢吃鱼吗？",
+    "response": "这是一道简单而有趣的问题。答案是无问题的。因为你问的是关于咪咪的行为，而不是她的性别或其他特定信息，所以我们可以根据一般情况来说出答案。咪咪是任何猫的，不论她是男性的女性的，都喜欢吃鱼。",
+    "metrics": {
+      "ttft_ms": 1322.6652145385742,
+      "tps": 8.398841440544775,
+      "tokens": 69,
+      "duration_s": 9.538084030151367,
+      "peak_mem_mb": 1830.953125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:46:51.169231",
+      "temp_start_c": 55.1,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B15",
+    "category": "Translation",
+    "type": "Basic",
+    "prompt": "将‘你好，世界’翻译成英文。",
+    "response": "The translation of \"你好，世界\" (nǐ hǎo, world) into English is:\n\nHello, World.",
+    "metrics": {
+      "ttft_ms": 871.6726303100586,
+      "tps": 8.544426052250179,
+      "tokens": 27,
+      "duration_s": 4.031627416610718,
+      "peak_mem_mb": 1828.296875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:46:55.503067",
+      "temp_start_c": 56.2,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B16",
+    "category": "Color",
+    "type": "Basic",
+    "prompt": "天空通常是什么颜色的？草是什么颜色的？",
+    "response": "天空通常是蓝色的，或者说它在不同条件下可以看起来呈现出不同的颜色。例如，在清晨或深夜时，天空可能会呈现出白色或浅蓝色。然而，当阳光充足时，天空通常会变成蓝绿色的。\n\n草的颜色可以是多种，而它们之间没有明显的对比。有些草可能会呈现出黄、青、红或其他颜色，而其他些草可能会呈现出白、灰色或其他颜色。",
+    "metrics": {
+      "ttft_ms": 867.3627376556396,
+      "tps": 8.133915661944709,
+      "tokens": 118,
+      "duration_s": 15.374520778656006,
+      "peak_mem_mb": 1837.609375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:47:11.179790",
+      "temp_start_c": 56.2,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B17",
+    "category": "Animal",
+    "type": "Basic",
+    "prompt": "大熊猫主要生活在中国的哪个省份？它主要吃什么？",
+    "response": "大熊猫主要生活在中国的四川省。它们通常被认为是中国最大的生长型动物之一，主要食用肉类和野菜。",
+    "metrics": {
+      "ttft_ms": 1050.847053527832,
+      "tps": 8.431835208502255,
+      "tokens": 36,
+      "duration_s": 5.320380210876465,
+      "peak_mem_mb": 1840.921875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:47:16.802508",
+      "temp_start_c": 56.75,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B18",
+    "category": "Sport",
+    "type": "Basic",
+    "prompt": "足球比赛中，每队上场多少人？",
+    "response": "在足球比赛中，每队通常有11名球员上场。这些包括:\n\n- 10名外围球员：通常是 defense 和 midfield 的主要成员。\n- 1名内场球员：常常是进攻的主体。\n\n请注意，这些数字可能会根据不同的俱乐部和比赛类型而变化。",
+    "metrics": {
+      "ttft_ms": 801.1481761932373,
+      "tps": 8.345431708684805,
+      "tokens": 73,
+      "duration_s": 9.54844880104065,
+      "peak_mem_mb": 1838.0625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:47:26.653053",
+      "temp_start_c": 55.1,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B19",
+    "category": "Music",
+    "type": "Basic",
+    "prompt": "中国的国歌叫什么名字？",
+    "response": "中国的国歌是《中华民国国歌》",
+    "metrics": {
+      "ttft_ms": 746.6468811035156,
+      "tps": 9.334490601645992,
+      "tokens": 13,
+      "duration_s": 2.139331340789795,
+      "peak_mem_mb": 1829.640625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:47:29.094631",
+      "temp_start_c": 56.2,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B20",
+    "category": "Food",
+    "type": "Basic",
+    "prompt": "四川菜的主要口味特点是什么？",
+    "response": "四川菜的主要口味特点包括：\n\n* 辣热：四川菜以辣椒、酱油和其他辛辣成分为主，通常会带来一种极其脆弱且热烈的口感。\n* 假食：四川菜中使用的假食（假药）往往比其他地区的假食要多，这些假食是为了增强味道和营养含量。\n* 苦肉：四川菜中含有大量苦肉，通常是用来加热或混合于其他食物中的。\n* 谢母油：四川菜中使用的谢母油（一种特殊类型的植物油）往往具有独特的香味和气味。\n\n这些口味特点使得四川菜在中国各地得到广泛推崇，并且成为当地传统食物之一。",
+    "metrics": {
+      "ttft_ms": 836.7288112640381,
+      "tps": 8.359032443882077,
+      "tokens": 193,
+      "duration_s": 23.925525426864624,
+      "peak_mem_mb": 1840.046875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:47:53.322390",
+      "temp_start_c": 56.2,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B21",
+    "category": "Direction",
+    "type": "Basic",
+    "prompt": "太阳从哪边升起，从哪边落下？",
+    "response": "太阳的升起和ลง伏在南方，通常是因为地球的rotation导致。",
+    "metrics": {
+      "ttft_ms": 901.1454582214355,
+      "tps": 8.851531284117641,
+      "tokens": 21,
+      "duration_s": 3.273616313934326,
+      "peak_mem_mb": 1839.15625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:47:56.898155",
+      "temp_start_c": 55.1,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B22",
+    "category": "Time",
+    "type": "Basic",
+    "prompt": "一年有多少个月？一天有多少小时？",
+    "response": "一年有 12 个月。\n\n一个月有 30 天，所以一年有 12 * 30 = 360 天。\n\n一个月有 24 小时，所以一年有 360 * 24 = 8640 小时。",
+    "metrics": {
+      "ttft_ms": 871.5159893035889,
+      "tps": 8.702781613175832,
+      "tokens": 49,
+      "duration_s": 6.501899719238281,
+      "peak_mem_mb": 1842.90625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:48:03.802611",
+      "temp_start_c": 56.75,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B23",
+    "category": "Family",
+    "type": "Basic",
+    "prompt": "爸爸的爸爸应该叫什么？",
+    "response": "我不确定。您可能想问您爸爸的爸爸是什么名字？或者您想 hỏi一个更具体的问题。",
+    "metrics": {
+      "ttft_ms": 772.0446586608887,
+      "tps": 8.569177064346043,
+      "tokens": 27,
+      "duration_s": 3.922872304916382,
+      "peak_mem_mb": 1835.359375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:48:08.027684",
+      "temp_start_c": 56.2,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B24",
+    "category": "Safety",
+    "type": "Basic",
+    "prompt": "发生火灾时，应该拨打什么电话号码？",
+    "response": "发生火灾时，应拨打消防救电话号码。具体来说：\n\n1.  **110**：是紧急火灾、电线爆炸或其他危险事件的常用电话号码。\n2.  **112**：是国际消防救助电话号码，สามารถ在任何国家使用，以便于国际救援和救护。",
+    "metrics": {
+      "ttft_ms": 955.5521011352539,
+      "tps": 8.658524029392208,
+      "tokens": 83,
+      "duration_s": 10.541481494903564,
+      "peak_mem_mb": 1834.234375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:48:18.878620",
+      "temp_start_c": 56.75,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "B25",
+    "category": "Internet",
+    "type": "Basic",
+    "prompt": "WWW 代表什么意思？",
+    "response": "WWW は World Wide Web で、世界中のユーザーがインターネットにアクセスできる web 環境を構築する基本的なエンタープライズシステムです。",
+    "metrics": {
+      "ttft_ms": 684.537410736084,
+      "tps": 8.534027834296412,
+      "tokens": 43,
+      "duration_s": 5.723189830780029,
+      "peak_mem_mb": 1838.546875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:48:24.904106",
+      "temp_start_c": 56.2,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A01",
+    "category": "Idiom",
+    "type": "Advanced",
+    "prompt": "'差强人意'这个成语是让人满意还是不满意？请解释原因。",
+    "response": "\"差强人意\"是一个中国成语，意思是表达不满意或觉得事物很差。这个成语通常被用来描述那些遇到困难、遭遇不幸或者遇见了不高尚的人。\n\n在某些情况下，这个成语可能会被用来表示不满足的感觉，而不是积极的态度。在这种情况下，人们可能会感到沮丧或失望。例如：\n\n* \"我去机场到达时间晚了，差强人意!\"\n* \"这件衣服不适合我，差强人意!\"\n* \"他做得很差，差强人意!\"\n\n然而，在其他情况下，这个成语可能会被用来表示积极的态度或者对事物的赞美。例如：\n\n* \"这餐厅的食物非常 ngon，差不多人意!\"\n* \"这个建筑设计很好-looking，差不多人意!\"\n* \"她做得非常精致，差强人意!\"\n\n所以，在不同的情况下，这个成语可以表达不同的人情态度。",
+    "metrics": {
+      "ttft_ms": 1232.945442199707,
+      "tps": 8.198456460128117,
+      "tokens": 237,
+      "duration_s": 30.140825986862183,
+      "peak_mem_mb": 1835.234375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:48:55.347242",
+      "temp_start_c": 56.2,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A02",
+    "category": "Polyphone",
+    "type": "Advanced",
+    "prompt": "'行'字在'银行'和'行走'中读音有什么不同？请分别注音并解释。",
+    "response": "\"行\"字在\"银行\"中的读音是 /riŋː/, whereas \"行\"字在\"行走\"中的读音是 /wǎng/. 两者之间的差异主要体现在读音的音调和音节组合上。",
+    "metrics": {
+      "ttft_ms": 1288.1641387939453,
+      "tps": 8.052647835985326,
+      "tokens": 61,
+      "duration_s": 8.863312244415283,
+      "peak_mem_mb": 1834.625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:49:04.512769",
+      "temp_start_c": 56.75,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A03",
+    "category": "Poetry",
+    "type": "Advanced",
+    "prompt": "请补全诗句：床前明月光，______。并简述这首诗表达的情感。",
+    "response": "床前明月光，白昼的光 indirectly。\n\n这首诗描述了清晨时床前的雪花落着，在床前放置了一盏明月光。 poem 的情感可以说是轻松愉快和温馨之情。",
+    "metrics": {
+      "ttft_ms": 1288.750410079956,
+      "tps": 8.609749263915722,
+      "tokens": 59,
+      "duration_s": 8.141447067260742,
+      "peak_mem_mb": 1835.109375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:49:12.956504",
+      "temp_start_c": 57.3,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A04",
+    "category": "Idiom",
+    "type": "Advanced",
+    "prompt": "解释成语'刻舟求剑'的含义，并结合现代生活造一个句子。",
+    "response": "\"刻舟求剑\"是指采取艰难、顽强的方法来追求理想或目标，而不是懈惜或放弃。这个成语在古代时期就已经存在，尤其是在海军上战场中。\n\n现在，结合现代生活，可以解释它的含义如下：\n\n\"刻舟求剑\"意味着，即使你 facing 大难 khó khăn，还是要继续努力和奮发地去追求你的理想或目标。即使在面对重重困难、失败等挑战时，你也 shouldn't 退缩，也 shouldn't 放弃。\n\n例如：\n\n\"为了实现自己的梦想，我一直刻舟求剑，尽管生活非常不容易，但我仍然坚持前进，相信未来将会是更好的。”\n\n或：\n\n\"作为一名 startup founder，我知道追求理想所需的刻舟求剑不是轻松的，但我还是能通过努力和奮发来实现梦想，所以我一直在刻舟求剑，这样才能让自己的理想变成现实。\"\n\n因此，'刻舟求剑'这句成语告诉我们，要勇敢地面对挑战、不懈惜地追求理想，直到实现自己 dreamed 的目标。",
+    "metrics": {
+      "ttft_ms": 1199.0184783935547,
+      "tps": 8.087033105390706,
+      "tokens": 283,
+      "duration_s": 36.19331073760986,
+      "peak_mem_mb": 1836.34375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:49:49.452121",
+      "temp_start_c": 57.3,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A05",
+    "category": "Chengyu",
+    "type": "Advanced",
+    "prompt": "请接龙：欣欣向荣。(请至少接龙 5 个成语)",
+    "response": "欣欣向荣，先是开心，接着安定，后面却又变成急躁。",
+    "metrics": {
+      "ttft_ms": 1076.0493278503418,
+      "tps": 8.677988365469357,
+      "tokens": 25,
+      "duration_s": 3.9569013118743896,
+      "peak_mem_mb": 1841.59375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:49:53.711348",
+      "temp_start_c": 56.75,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A06",
+    "category": "Polyphone",
+    "type": "Advanced",
+    "prompt": "'重'字在'重要'和'重复'中读音有何不同？请举例说明。",
+    "response": "'重'字在\"重要\"和\"重复\"中读音为 /riː/，而在\"重\"字中读音为 /r/.",
+    "metrics": {
+      "ttft_ms": 1263.746976852417,
+      "tps": 8.033546521779485,
+      "tokens": 37,
+      "duration_s": 5.869433879852295,
+      "peak_mem_mb": 1850.734375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:49:59.883081",
+      "temp_start_c": 56.75,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A07",
+    "category": "History_Detail",
+    "type": "Advanced",
+    "prompt": "请简述‘赤壁之战’的历史背景及其对三国鼎立局面的影响。",
+    "response": "“赤壁之战”是中国历史中一个非常著名的军事大作，它发生在南北朝时期， Specifically是在三国鼎立的过程中。\n\n三国鼎立是一场政治和战争冲突，由于南北朝两派之间出现了大量相互争夺的势力，导致了平静 era 的崩溃。这个时候，南朝两派各自都有着强大的经济和军事力量。\n\n在这种背景下，“赤壁之战”发生了是在赤壁城堡附近的赤壁镇域。这座城堡是南朝两派之间争夺权力的重要 stronghold，尤其是在三国鼎立期间。\n\n当时，南朝两派各自都有着强大的军队和经济资源。三国 Zhu Yuanzhang（也称为 Hongwu Huang）和北朝 Sima Yan（又称为 Jin Yong）都是出于权力竞争的理由来扩张自己的势力。\n\n在这个背景下，“赤壁之战”是 Zhu Yuanzhang以对抗 Sima Yan为目的进行了第一次大规模入侵。Sima Yan在这次战役中表现出了很强的军事力和 cunning tactics，Zhu Yuanzhang虽然在最初的进攻中有所成功，但后来由于缺乏充分的 reinforcements 和更好的战术策略，他才能够保住城堡。\n\n“赤壁之战”最终是 Zhu Yuanzhang 的 defeat，这场战役也标志着开始了他的三国鼎立的历史。",
+    "metrics": {
+      "ttft_ms": 1196.711778640747,
+      "tps": 8.29962110315475,
+      "tokens": 344,
+      "duration_s": 42.644387006759644,
+      "peak_mem_mb": 1840.6875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:50:42.829745",
+      "temp_start_c": 56.75,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A08",
+    "category": "Literature",
+    "type": "Advanced",
+    "prompt": "《红楼梦》的作者是谁？请简要介绍贾宝玉和林黛玉的关系。",
+    "response": "《红楼梦》是一部中国古典小説，由转载于《南方周杂志》的小说《红楼梦》改编而来。该小说的创作者为张展。\n\n贾宝玉是 novels 最著名的人物，代表人物之一。他是一个富有文化和人文知情度的年轻公主，是红楼梦最重要的中心人物。林黛玉是贾宝玉最亲近的儿子，也是小说中最有吸引力的一位女主角。\n\n贾宝玉与林黛玉关系深厚，他在小说中的角色和行为体现了对他人深情的爱意。他在小说中表现出了一种非常典型的青天生下，追求人生的愿望。",
+    "metrics": {
+      "ttft_ms": 1259.878396987915,
+      "tps": 8.350104253188993,
+      "tokens": 171,
+      "duration_s": 21.738664627075195,
+      "peak_mem_mb": 1846.109375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:51:04.870601",
+      "temp_start_c": 57.3,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A09",
+    "category": "Idiom_Context",
+    "type": "Advanced",
+    "prompt": "在什么情况下我们会使用‘亡羊补牢’这个成语？它带有褒义还是贬义？",
+    "response": "“亡羊补牢”是一种用来避免后续的不利 consequences 的成语，意味着尽量减少或避免出现后续的问题。这是一个负面的概念，因为它暗示着我们要么承担了责任，要么选择要么不要去做某一 thing。",
+    "metrics": {
+      "ttft_ms": 1384.5748901367188,
+      "tps": 8.020965719377369,
+      "tokens": 67,
+      "duration_s": 9.737683773040771,
+      "peak_mem_mb": 1844.234375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:51:14.910583",
+      "temp_start_c": 57.3,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A10",
+    "category": "Poetry_Analysis",
+    "type": "Advanced",
+    "prompt": "请解释‘欲穷千里目，更上一层楼’的哲理含义。",
+    "response": "“欲穷千里目，更上一层楼”的哲理含义在于，即使你面临困难和挑战时，通过努力和 persistence，人们可以不断提高自己和达到目标。\n\n这句话可能是用来形容个人在生活中的逆天气，也可能是一种鼓励的说法。它暗示着，每个人的潜力和能力都有 limits，但不意味着我们要放弃努力。\n\n这个 saying 可以理解为：\n\n* 通过努力和 persistence，我们可以克服困难和挑战\n* 每个人都有潜力和能力，尽管看起来好像很小\n* 成功需要坚韧，不轻易放弃\n\n这句话也可能在不同的情况下应用，如：\n\n* 在工作或学习中，为了达到目标需要不断努力和 persistence\n* 在生活中的困难时期，通过努力和 perseverance，可以克服后果\n* 在追求梦想的过程中，我们必须坚韧并不轻易放弃\n\n总之，“欲穷千里目，更上一层楼”的哲理含义是通过努力和 persistence，人们可以实现自己的目标和达成目标。",
+    "metrics": {
+      "ttft_ms": 1169.8782444000244,
+      "tps": 8.255963739487102,
+      "tokens": 251,
+      "duration_s": 31.5721435546875,
+      "peak_mem_mb": 1843.953125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:51:46.784919",
+      "temp_start_c": 57.3,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A11",
+    "category": "Customs",
+    "type": "Advanced",
+    "prompt": "端午节是为了纪念哪位历史人物？人们通常会进行什么活动？",
+    "response": "端午节是中国的元宵节，纪念张量，诞生于1368年。它是一项纪念和庆祝活动，特别是纪念张量（一位重要的海军指挥官）。因此，人们通常会进行一些与纪念和庆祝有关的活动，例如：\n\n1. 参icipate in traditional festivals and customs, such as eating dumplings, drinking tea, and performing lion and dragon dances.\n2. Read and recite poems by famous Chinese poets, such as Du Fu and Li Bai.\n3. Visit museums and exhibitions to learn about the history of the event and its significance.\n4. Participate in patriotic performances, such as singing patriotic songs and playing traditional instruments like the erhu and pipa.\n5. Attend cultural events, such as concerts, dance performances, and other forms of artistic expression.\n\n这些活动都是为了纪念和庆祝张量的重要性，及其在中国海军历史上的作用。",
+    "metrics": {
+      "ttft_ms": 1075.1774311065674,
+      "tps": 8.386155888018344,
+      "tokens": 205,
+      "duration_s": 25.520227432250977,
+      "peak_mem_mb": 1853.875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:52:12.607367",
+      "temp_start_c": 57.85,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A12",
+    "category": "Geography_Detail",
+    "type": "Advanced",
+    "prompt": "长江流经哪些主要省份？它最终注入哪个海洋？",
+    "response": "长江流经四川、重庆、贵州、宜兰、福建、浙江、安徽、江苏、山西、河南、陕西、内蒙古、黑龙江、辽宁和吉林等省份。它最终注入海洋是大海。",
+    "metrics": {
+      "ttft_ms": 1110.1047992706299,
+      "tps": 7.9476452900576335,
+      "tokens": 68,
+      "duration_s": 9.66609811782837,
+      "peak_mem_mb": 1843.984375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:52:22.575725",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A13",
+    "category": "Tech_Concept",
+    "type": "Advanced",
+    "prompt": "请通俗地解释什么是‘区块链’技术。",
+    "response": "区块链技术是一种新的数字化方式，用于存储和传递数据。在这种技术中，每个 block（块）都是独立的、互补的，并且不属于前一个或后一个 block 的。每一块都包含上一个 block 的信息，直到达到一个特定的目的。\n\nThink của bạn是这样的：Imagine 一家人在共享一份文件，而要添加新的内容，需要让所有人同意并将新内容加入到该文件中。如果只有少数人同意，或者没有 anyone 能够修改文件，新的内容就不会被添加。同样，在区块链技术中，每个 block 只能由一个特定的节点（计算机）验证和确认后才能被包含在区块链上。\n\n这种技术的优点包括：\n\n* 速度快：区块链能够处理大量数据并且快速生成新内容。\n*_secure：区块链通过多种方法来确保所有 block 的完整性，并且不会有 anyone 能够操纵或篡改数据。\n* 互联：区块链可以连接不同的节点，形成一个大型网络，可以用来存储和传递任何类型的信息。\n\n区块链技术也在各种领域中被应用，例如：\n\n*  cryptocurrency（以数字货币为代价）：区块链技术用于安全地存储和交换数字货币。\n*  supply chain管理：区块链可以帮助 companies 进行物流管理，确保商品的 authenticity 和 origin。\n*  供应商和客户关系管理：区块链可以记录所有的 interactions-between 供应商和客户，提供更好的数据分析和决策能力。\n\n总之，区块链技术是一种新型的数字化方式，利用block链原理来解决问题。它具有快速、安全和互联的特性，是各种领域应用的有效方法。",
+    "metrics": {
+      "ttft_ms": 960.5762958526611,
+      "tps": 7.799736786596838,
+      "tokens": 399,
+      "duration_s": 52.116148710250854,
+      "peak_mem_mb": 1841.703125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:53:14.994070",
+      "temp_start_c": 57.3,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A14",
+    "category": "Economy",
+    "type": "Advanced",
+    "prompt": "什么是‘通货膨胀’？它对普通百姓的生活有什么影响？",
+    "response": "通货膨胀（inflation）是指将物价或财务标准上升了，导致购买力下降。它通常表现为价格上涨，消费者面临支出控制和节约收入的困难。\n\n通货膨胀对普通百姓的生活产生多种影响：\n\n1. **支出控制**: 通过增加价格，政府可能推动人们在支出方面减少或节约收入，从而实现财务控制。\n2. **消费者的痛苦**: 通过高通货膨胀率， consumers 可能会面临物价上涨的不便，导致他们无法获得足够的购买力来满足生活需求。\n3. **经济增长**: 通货膨胀可能促进经济增长，因为它使得资源和服务更具竞争性，从而刺激生产和投资。\n4. **利率升高**: 通货膨胀通常导致利率上涨，意味着 borrowing 和借款价格会上涨，这可能对小 businesses 和个人生活造成负面影响。\n\n通货膨胀的不同程度将依据经济状况、政策措施以及各国不同地区的物价波动而有所不同。",
+    "metrics": {
+      "ttft_ms": 1140.7694816589355,
+      "tps": 7.500883023056318,
+      "tokens": 265,
+      "duration_s": 36.4699432849884,
+      "peak_mem_mb": 1843.578125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:53:51.766225",
+      "temp_start_c": 57.85,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A15",
+    "category": "Law_Basic",
+    "type": "Advanced",
+    "prompt": "在中国，多少岁成年？未成年人犯罪需要承担刑事责任吗？",
+    "response": "在中国，未成年人犯罪的处罚取决于其年龄和类型的crime。根据《中华人民共和国民法典》，未成年人的主要目的是保护他们免受伤害，而非作为刑事犯。\n\n一般来说，法律将未成年人的 crimes 分为以下几类：\n\n1.  **未成年人罪**：这些是指犯罪行为发生在未成年人身上，但并非因为他们没有能力承担完全的责任。例如，未成年人因过错而伤害他人。\n2.  **幼儿 tội法**：这类 crimes涉及小孩子（通常认为是3岁以下的小孩），他们的行为被视为错误或不当。但这些罪行通常不会处以刑事处罚。相反，可能会将其归属于民法学或其他相关法律领域。\n3.  **成人犯罪**：这是指犯罪行为发生在成年人的身上，但未能避免造成伤害的。例如，个体因自己的行为而导致他人遭受伤害。\n\n按照中国法律规定，如果一个未成年人的犯罪行为导致他人遭受伤害，并且他们本身并没有能力承担完全责任，则可能会被视为“未成年人罪”。在这种情况下，通常不会处以刑事处罚，而是将其归属于民法学或其他相关法律领域。\n\n但是在某些特殊情况下，例如，如果一个未成年人的犯罪行为导致他人遭受严重伤害，则可能会被视为“成人犯罪”并面临相应的刑事责任。这种情况通常发生在以下几种情况：\n\n*   **严重不成年人罪**：这类 crimes涉及严重的未成年人犯罪，例如残疾或残障者因过错而遭受伤害。\n*   **成人犯罪伴有他人的伤害**：如果一个未成年人的犯罪行为导致另一个人被伤害，并且该个人无法承担完全责任，则可能会被视为“成人犯罪”并面临相应的刑事责任。\n\n因此，在中国，未成年人犯罪需要承担刑事责任，但这种情况通常发生在极端的情况下，而不是常规。",
+    "metrics": {
+      "ttft_ms": 1141.8662071228027,
+      "tps": 8.000004876523189,
+      "tokens": 485,
+      "duration_s": 61.76682925224304,
+      "peak_mem_mb": 1849.296875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:54:53.835236",
+      "temp_start_c": 57.85,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A16",
+    "category": "Emotion",
+    "type": "Advanced",
+    "prompt": "请用一段话描述‘喜极而泣’这种心理状态。",
+    "response": "“喜极而泣”是一种非常复杂的情绪状态，通常是指在面对某些很难受的经历或 situation 时，会出现强烈的感伤反应，同时又有着极高的兴奋度。这意味着当我们遇到一个非常痛苦、令人喟惧或让人感到丧失时，我们可能会同时感到极其激动和内疚。这种状态通常是由于大脑在处理复杂情绪时难以有效应对，不断地反复考虑和重复思考感受，从而引发一系列内部冲突。",
+    "metrics": {
+      "ttft_ms": 986.839771270752,
+      "tps": 8.365734717976137,
+      "tokens": 135,
+      "duration_s": 17.12409543991089,
+      "peak_mem_mb": 1842.125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:55:11.261468",
+      "temp_start_c": 56.75,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A17",
+    "category": "Debate",
+    "type": "Advanced",
+    "prompt": "有人认为‘手机让人与人更疏远’，你同意吗？请给出理由。",
+    "response": "是的，我同意。虽然现代生活中我们经常在使用手机，但它确实可能导致人们与他人之间保持更大的距离。\n\n首先，一些研究表明，随着电子产品的普及，人们开始对时间和空间的需求过度。即使是在家里，也会有许多活动需要占据人们的大部分时间，如工作、学习和玩游戏等。这可能导致人们不再能有效地与其他人交流和分享情感。\n\n其次，手机的使用模式也可能导致我们失去了对面视力的体验。虽然我们可以通过图像或视频传递我们的想法，但在现实世界中，有时会缺乏 face-to-face interaction，这对于建立和维护关系非常重要。\n\n最后，最近还有一些研究表明，手机使用可能导致人的身体和脑部发育受到影响。例如，一种称为“细胞增殖”（cell proliferation）的过程，认为手机的接触可能会让人体代谢率降低，从而影响大脑功能。这一问题尚未得到充分研究，但是一些研究表明，它们已经存在。\n\n总之，尽管现代生活中我们经常使用手机，但它确实可能导致人们与他人之间保持更大的距离。",
+    "metrics": {
+      "ttft_ms": 1194.390058517456,
+      "tps": 8.273020241423508,
+      "tokens": 270,
+      "duration_s": 33.830596923828125,
+      "peak_mem_mb": 1845.921875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:55:45.394215",
+      "temp_start_c": 57.3,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A18",
+    "category": "Art",
+    "type": "Advanced",
+    "prompt": "中国水墨画的主要特点是什么？它与油画有什么区别？",
+    "response": "中国水墨画是一种具有独特风格和历史意义的艺术形式，其主要特点包括：\n\n1. 水墨质地：水墨画以水墨为其主体，表面上有细致的水墨线条、深浅差别，形成一种丰富而动感的效果。\n2. 绘制方法：水墨画通常使用一根铁笔或水墨笔来绘制，不需要特殊的绘色工具或材料。\n3. 形式和比例：水墨画的形状和比例取决于题目内容和创作者的意图，往往具有简约和谐的效果。\n4. 语言和符号：水墨画中使用各种象征性符号、字母和图案来传达意思、情感或故事。\n\n与油画相比，中国水墨画有以下几个主要区别：\n\n1. 水墨质地：水墨画的水墨质地 richer、更加丰富，有更高的表面光滑度。\n2. 绘制方法：水墨画使用铁笔或水墨笔，而油画则需要特殊的绘色工具和材料。\n3. 形式和比例：虽然水墨画也可以有不同形状和比例，但往往以简约而谐为特征。\n4. 语言和符号：水墨画使用各种象征性符号、字母和图案，而油画则通常使用更直接的图像和表达。\n\n因此，中国水墨画和油画都是不同的艺术形式，其独特的风格和质地使它们能够呈现出独特的情绪和意图。",
+    "metrics": {
+      "ttft_ms": 1049.1526126861572,
+      "tps": 8.0123609285152,
+      "tokens": 366,
+      "duration_s": 46.728572607040405,
+      "peak_mem_mb": 1841.734375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:56:32.424935",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A19",
+    "category": "Medicine",
+    "type": "Advanced",
+    "prompt": "中医里的‘望闻问切’分别指什么？",
+    "response": "“望闻问切”是中医的四个基本法则。 \n\n首先，“望”是指观察、观察到病人身體狀況或症狀。目的是了解疾病的特點和位置。\n\n其次，“聞”是指听诊、听取病人的口述描述。目的是了解病人的主诉、症状和病史。\n\n接着，“问”是指问题和疑问的探讨。目的是了解病人是否有其他的症狀或可能相关疾病。\n\n最后，“切”是指治疗、治疗方案的制定。目的是根据病人的症状和体征制定合适的治疗方法。",
+    "metrics": {
+      "ttft_ms": 901.5252590179443,
+      "tps": 8.488809796898838,
+      "tokens": 149,
+      "duration_s": 18.454044818878174,
+      "peak_mem_mb": 1848.890625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:56:51.182190",
+      "temp_start_c": 57.3,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A20",
+    "category": "Env",
+    "type": "Advanced",
+    "prompt": "什么是‘碳中和’？为什么要提倡低碳生活？",
+    "response": "“碳中和”是一种旨在减少二氧化碳（CO2）的排放，通过采取特定行为或投资来实现的目标。它旨在帮助个人、组织和国家降低其与温室气体相关的碳排放，从而达到减轻全球变暖的目的。\n\n为什么要提倡低碳生活?\n\n1. **减少温室气体排放**: 二氧化碳是人類活动中最主要的温室氣體之一，导致 global warming 和变暖。通过降低碳排放，我们可以减少这些气体的释放，从而保护环境和确保未来几代能够在温室效果下生活。\n2. **预防自然灾害**: 高温和干旱带来的 droughts、 floods 和其他灾害性事件已成为全球各地的一大问题。通过减少碳排放，我们可以降低这些风险，并保护基础设施和人类生命。\n3. **节省资源**: 低碳生活不仅可以减少温室气体排放，还可以帮助节省 fossile fuels（燃料如石油、天然gas 和coal），从而降低燃料的价格，促进经济增长和社会发展。\n4. **保护 biodiversity**: 温室气体可以干扰生态系统，使一些物种更加难以生存。通过减少温室气体排放，我们可以保护更大的数量的生物多样性，保持自然环境的健康和功能。\n\n什么是低碳生活？\n\n低碳生活是一系列行为或投资，从个人到家庭、组织至国家层面来实现。这些包括：\n\n1. 使用可再生能源，如太阳能、风能和核能。\n2. 采取节能技术，如节能设备、电池等。\n3. 买用低碳或环保产品，如可再生塑料、环保化工原子等。\n4. 进行生物多样性保护、植被管理和自然资源健康的工作。\n5. 支持绿色经济，创造就业机会和 Stimulate innovation。\n\n通过实现低碳生活，我们可以确保未来几代能够在温室效果下生活，保护环境和确保人类的福祉。",
+    "metrics": {
+      "ttft_ms": 1080.3751945495605,
+      "tps": 7.954997686162454,
+      "tokens": 500,
+      "duration_s": 63.93394470214844,
+      "peak_mem_mb": 1845.21875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:57:55.418501",
+      "temp_start_c": 56.75,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A21",
+    "category": "Idiom_Opposite",
+    "type": "Advanced",
+    "prompt": "请写出‘雪中送炭’的反义词成语，并解释两者的区别。",
+    "response": "“雪中送炭”是指在积Snow中送递礼物，是一种古典的传统节日活动。\n\n反义词：“雪中接炭”\n\n*   “雪中接炭”意味着送递物品或礼物是在积Snow下直接接收到者的位置，而不是送递给他人。\n*   “雪中送炭”的区别在于它是送递的动作和受者。",
+    "metrics": {
+      "ttft_ms": 1233.7887287139893,
+      "tps": 8.423757137507105,
+      "tokens": 100,
+      "duration_s": 13.104976177215576,
+      "peak_mem_mb": 1846.390625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:58:08.825683",
+      "temp_start_c": 57.85,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A22",
+    "category": "Proverb",
+    "type": "Advanced",
+    "prompt": "请解释俗语‘不到黄河心不死’的含义，并造句。",
+    "response": "“不到黄河心不死”是一句俗语，通常用来形容 someone 的坚韧不移、不易被动止步的性格特征。它意味着，即使在面对困难或压力时，也不会放弃努力，反而继续前进。\n\n这种说法可能来源于黄河的古老传说，黄河是中国最长的河流之一，具有深厚历史和文化地位。因此，在黄河的心脏中，坚韧不移的性格通常被视为一种本能，这种本能使人能够应对挑战、克服困难并继续前进。\n\n用句子造就“不到黄河心不死”的话，可能会像这样：\n\n“不要 underestimate your inner strength, just like not to underestimate the heart of a mighty river. You may be strong enough to overcome any challenge and keep moving forward.”",
+    "metrics": {
+      "ttft_ms": 1082.3540687561035,
+      "tps": 7.662848849678973,
+      "tokens": 197,
+      "duration_s": 26.79080843925476,
+      "peak_mem_mb": 1844.640625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:58:35.918667",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A23",
+    "category": "Writing_Style",
+    "type": "Advanced",
+    "prompt": "请用‘委婉’的语气拒绝别人的邀请。",
+    "response": "我很感谢你的邀请，但我目前并不太适合参加活动。",
+    "metrics": {
+      "ttft_ms": 1019.7007656097412,
+      "tps": 9.048872816492858,
+      "tokens": 19,
+      "duration_s": 3.1194097995758057,
+      "peak_mem_mb": 1846.15625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:58:39.340272",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A24",
+    "category": "Logic_Train",
+    "type": "Advanced",
+    "prompt": "如果‘所有 A 都是 B’，且‘有些 B 是 C’，那么‘有些 A 是 C’这句话一定正确吗？为什么？",
+    "response": "因为当我们说“所有 A 都是 B”，它意味着 A 有 B 的所有特征。但是，当我们知道“一些 B 是 C”时，我们就可以推断出 B 不能是 C，这样 A 就没有 B 的所有特征。",
+    "metrics": {
+      "ttft_ms": 1461.4269733428955,
+      "tps": 8.657180961715435,
+      "tokens": 56,
+      "duration_s": 7.9300453662872314,
+      "peak_mem_mb": 1843.515625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:58:47.572538",
+      "temp_start_c": 57.85,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A25",
+    "category": "News_Summary",
+    "type": "Advanced",
+    "prompt": "假设今天发生了一件大事：‘某地发生地震，救援队迅速赶到。’请将此扩写成一条 50 字的新闻简讯。",
+    "response": "今天早晨，某个地区发生了严重的地震。救援队在短时间内赶到场地，迅速进行救援和抢救工作。许多受伤的人被带到医院接受治疗，救援人员仍然在现场进行努力。目前情况稳定，受影响的地区正在得到支持并逐步恢复。",
+    "metrics": {
+      "ttft_ms": 1730.2231788635254,
+      "tps": 8.55300225728254,
+      "tokens": 77,
+      "duration_s": 10.732909917831421,
+      "peak_mem_mb": 1843.234375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:58:58.607643",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A26",
+    "category": "Tech_History",
+    "type": "Advanced",
+    "prompt": "谁被称为‘杂交水稻之父’？他的贡献是什么？",
+    "response": "答：“杂交水稻之父”这个名词通常被指向的是马克·德·布勒（Mark De Brouwer），他是第一个成功地开发并广泛应用的杂交水稻技术。他于1890年在巴西创造了一种新型的杂交水稻品种，后来被称为“杂交水稻之父”。",
+    "metrics": {
+      "ttft_ms": 1097.2213745117188,
+      "tps": 8.433460363987058,
+      "tokens": 89,
+      "duration_s": 11.650422096252441,
+      "peak_mem_mb": 1847.359375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:59:10.560272",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A27",
+    "category": "Space",
+    "type": "Advanced",
+    "prompt": "中国第一个进入太空的宇航员是谁？乘坐的是哪艘飞船？",
+    "response": "中国第一个进入太空的宇航员是王颐。1984年12月18日，他乘坐的飞船是中国太空站的“天狼”，而后来也改称为“长春号”。",
+    "metrics": {
+      "ttft_ms": 1152.3327827453613,
+      "tps": 8.15871150720063,
+      "tokens": 51,
+      "duration_s": 7.403319835662842,
+      "peak_mem_mb": 1846.671875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T22:59:18.265807",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A28",
+    "category": "Philosophy",
+    "type": "Advanced",
+    "prompt": "请简述孔子‘己所不欲，勿施于人’的思想内涵。",
+    "response": "孔子“己所不欲，勿施于人”是他的一个核心思想。他强调了个人自主权和人身自由的重要性，但同时又提到了社会责任和公民 duties 的意义。\n\n孔子认为，一个人应该根据自己的意志做出决定，并不应遵循别人的要求或命令。相反，他认为，施行道德规则和公平正义是个人自主权的一个方面。然而，如果一个人不愿意施行这些规则，就不应施行什么也不得不施行的规则。\n\n这意味着，个人有权根据自己的价值观念、信仰和优先事项来决定如何生活和做出决策。在这种情况下，个人不应该被强迫或胁迫施行什么也不愿意的规则。\n\n孔子的思想也强调了社会责任和公民 duties 的重要性。虽然他认为个人有权根据自己的意志做出决定，但同時又提到了个人应对社会的问题和促进社会发展的责任。\n\n例如，如果一个人不愿意帮助家人或朋友，但是却能为大众做出贡献，那么他们就应该被视为社会责任的承诺者。同时，如果人们不愿意遵守道德规则和公平正义 thì就会陷入一种自私自利的状态，这反而会对社会造成负面影响。\n\n总之，孔子的“己所不欲，勿施于人”思想强调了个人自主权和人身自由，但同时又提到了社会责任和公民 duties 的重要性。",
+    "metrics": {
+      "ttft_ms": 1174.5612621307373,
+      "tps": 7.890763623990667,
+      "tokens": 348,
+      "duration_s": 45.27675676345825,
+      "peak_mem_mb": 1839.453125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:00:03.844761",
+      "temp_start_c": 57.85,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A29",
+    "category": "Business",
+    "type": "Advanced",
+    "prompt": "什么是‘独角兽企业’？请举一个中国的例子。",
+    "response": "“独角兽企业”（Specialty Company）是一种特殊类型的公司，它不属于一般的商业公司，通常由一位专家或创始人带领，专注于特定领域的业务发展。独角兽企业往往具有独特优势和独特竞争力。\n\n中国的一例是：微软中国（Microsoft China）。微软中国是微软全球最大的独立子公司之一，它成立于2006年，主要聚焦在中国的PC电脑、移动设备、服务端软件等领域。 company 的创始人包括马丁·史托克（Martin Sorensen）和林元（Ling Yu）。微软中国拥有大量的员工，占公司总职位数的比例高达30%，并且是全球最大的独立子公司之一。\n\n微软中国的业务包括PC电脑、移动设备、服务端软件等领域，以及从事数字化研究和开发。 company 的独特优势在于其能够提供专门针对中国市场需求的技术解决方案，帮助公司快速成长和发展。",
+    "metrics": {
+      "ttft_ms": 1014.5893096923828,
+      "tps": 8.187256679096999,
+      "tokens": 232,
+      "duration_s": 29.351309299468994,
+      "peak_mem_mb": 1849.609375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:00:33.498284",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A30",
+    "category": "Psychology",
+    "type": "Advanced",
+    "prompt": "什么是‘拖延症’？请给出两个克服它的建议。",
+    "response": "**拖延症（Delaysy）**\n\n拖延症是一种常见的精神健康疾病，表现为个人对任务、计划或目标感到放松和延迟。这可以包括各种事情，如工作、学习、家庭等。\n\n**克服拖延症的建议**\n\n1.  **设定明确的目标并将其记录下来**: 在开始之前，设定明确的目标并将其写下来。如果想改善你的时间管理 skills，可以尝试使用一个“ todo list”或“任务表”，列出每天要完成的任务，并清除已完成的任务。\n2.  **分解大任务成小步**: 找到最容易完成的小任务，例如起床、吃早餐、做澡等。如果你在某个具体的时间点无法完成一个很大的任务，那么可以将其分为几个小任务并完成其中一个。这样你就可以保持 momentum，并且速度会更快。",
+    "metrics": {
+      "ttft_ms": 989.6771907806396,
+      "tps": 8.33123108788926,
+      "tokens": 211,
+      "duration_s": 26.3160662651062,
+      "peak_mem_mb": 1847.140625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:01:00.116548",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A31",
+    "category": "Travel",
+    "type": "Advanced",
+    "prompt": "如果你要去西安旅游，你会推荐哪三个必去景点？为什么？",
+    "response": "西安是一座历史和文化宝座的城市，拥有众多不可错过的景点。以下是三处必须看的景点：\n\n1.  **马川**：这是西安最著名的景点之一。它位于市区中心，是一座古代墓园，这里有着众多历史和文化 relic的积累，在这里可以看到来自各地不同地区的遗物，包括金字塔、石雕等。\n2.  **明στεун**：这是一座历史大厦，被誉为中国最美丽的建筑之一。它是西安的象征性景点，建于1358年，是清代中国的政治中心，也是中国文学和艺术的重要场所。\n3.  **红塔**：这是西安最著名的景点之一，这座大厦被誉为中国最美丽的大厦之一。它建于1919年，建造过程中有许多创意的设计特征。\n\n这些景点不仅能体验到西安的历史和文化，还能更深入地了解当地的风格和生活方式。",
+    "metrics": {
+      "ttft_ms": 1070.594310760498,
+      "tps": 8.250323755694753,
+      "tokens": 247,
+      "duration_s": 31.00881338119507,
+      "peak_mem_mb": 1851.640625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:01:31.427554",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A32",
+    "category": "Food_Culture",
+    "type": "Advanced",
+    "prompt": "为什么中国人过年要吃饺子？有什么寓意？",
+    "response": "中国的过年是由几个重要节日组成的：新历岁月（元旦）、农历岁月（春节）和正朔岁月（立秋）。在这些节日中，饺子是常见的食物。\n\n饺子的原因是，传统上，中国人吃饺子以 Celebrate 一个重要的节日。饺子是一种圆形、气性 foods，是古代中国用作饮食和礼物的重要材料。\n\n然而，在这些节日中，饺子没有成为主要食物的特点。最常见的是吃的食物是烤肉、馒头、麻 cracker 和淀粉糊等。它们与过年的寓意有关。\n\n*   **新年：** 一个好的新年可能不一定需要吃很多东西。许多中国人将新年的节日定义为简单而轻松的 occasion，主要是为了休闲地聚会，而不是过着 extravagance 的晚宴。\n*   **春节：** 春节是中国最重要的节日之一。它通常以一天或几天的时间来 celebrated。许多人在春节期间将家庭和朋友聚集起来做一些基本的活动，如吃饭、看电影等，并可能会花些钱买一些新的一些东西。\n*   **立秋：** 立秋是中国最早的 harvest festival，也就是一个为了celebrate Harvest festivals的 occasion。过了立秋之后，人们就开始准备好今年的食物。\n\n饺子的寓意在这些节日中有很多：\n\n*   **简单和轻松**: Chinese people during the spring festival often have a simple meal, which is to eat plain rice and vegetables. This way, they can enjoy their time together without spending too much money or having too much stress.\n*   **Family bonding**: During the Spring Festival, families come together to spend quality time with each other, do some fun activities, and make new memories. This helps strengthen family ties and create a sense of closeness among loved ones.\n*   **Cultural heritage**: Chinese people during these festivals often pay homage to their cultural heritage by eating traditional foods like jiaozi (dumplings), mantou (steamed buns), and niangao (sticky rice cake). These foods remind them of their ancestors and the rich history of Chinese cuisine.",
+    "metrics": {
+      "ttft_ms": 978.3880710601807,
+      "tps": 7.097095961683315,
+      "tokens": 509,
+      "duration_s": 72.69786357879639,
+      "peak_mem_mb": 1851.21875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:02:44.427635",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A33",
+    "category": "Language_Nuance",
+    "type": "Advanced",
+    "prompt": "‘厉害’这个词在中文里既可以表示‘凶猛’也可以表示‘优秀’，请分别造句。",
+    "response": "“厉害”是指强壮、威武的，可以用来形容一个人或团体的身体能力、心理状态等。\n\n例句：\n\n1. 他的运动表演技巧非常厉害，他成为一名游泳世界冠军。\n2. 她的精神 toughness非常厉害，她能够在压力下保持积极的动机和信心。",
+    "metrics": {
+      "ttft_ms": 1403.9528369903564,
+      "tps": 8.242780842721002,
+      "tokens": 84,
+      "duration_s": 11.594688415527344,
+      "peak_mem_mb": 1846.59375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:02:56.325525",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A34",
+    "category": "Ethics",
+    "type": "Advanced",
+    "prompt": "如果你在街上捡到一个钱包，里面有身份证和现金，你应该怎么做？",
+    "response": "如果你在街上找到的钱包里面有身份证和现金，那么你应该把这些东西交给当地的安全服务员或者警察，然后寻求法律保护。虽然这可能是一种危险而不确定的境地，但如果你能采取积极行动并得到帮助，你可以避免可能的后果。\n\n例如， आप可以向当地的安全服务员或警察报告发现的钱包，并要求他们帮助你找回所有物品。如果你感到自己在独处时很不安全，请寻求朋友、家人或他人帮助。",
+    "metrics": {
+      "ttft_ms": 1226.1788845062256,
+      "tps": 8.478722418943548,
+      "tokens": 126,
+      "duration_s": 16.0869083404541,
+      "peak_mem_mb": 1846.453125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:03:12.714623",
+      "temp_start_c": 57.3,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "A35",
+    "category": "Future",
+    "type": "Advanced",
+    "prompt": "你认为 10 年后的人工智能会在哪些方面改变我们的生活？",
+    "response": "10 年后，人工智能（AI）可能会在许多方面引入重大变化，我们可以预见如下几点：\n\n1. **更加准确的医疗**: AIpowered诊断工具和治疗系统将更好地识别并应对疾病，降低死亡率和 morbidity。例如，AI可以帮助医生识别特定类型的癌症，改善早期诊断和治疗。\n\n2. **增强工作力度**: AI-powered automation tools 将在许多任务上取代人类工作人员，这将带来更高效、更精确的生产率，从而提高经济增长速度。然而，它也可能导致技能交替失业问题，需要我们重新适应工作方式和技能。\n\n3. **更好的教育**: AI可以为学校提供 personalized learning，帮助学生更好地理解内容，并能够识别和解决学习障碍。它还可以为 educators 提供实时反馈和建议，以改善学生的教育体验。\n\n4. **更加安全的交通**: AI-powered vehicles 可能会减少交通事故率、降低车祸 casualties，提高驾驶者的安全水平。它们还可以通过预测和响应交通事件更好地确保 smoother ride。\n\n5. **更积极的环境保护**: AI-powered tools 可以帮助我们更全面地了解和应对地球问题，如气候变化、污染和生态灾害。它可能会让我们更有效地管理资源、降低污染水平，并促进可持续发展。\n\n6. **加强安全与防御**: AI可以为军事和民用领域提供实时 Threat Detection 和 Response，改善保护我们的安全。这包括识别和响应特定威胁，如 cyber attacks 或自然灾害。\n\n7. **更好的物流管理**: AI可以帮助我们更有效地规划和控制物流网络，从而降低运输成本、提高准确性，并改善供应链效率。\n\n8. **更加公平的社会**: AI-powered tools 可能会为社会提供更多机会和机会，例如通过对人工任务的自动化让人们专注于更重要的活动。它还可能帮助我们改善经济和政策，促进社会 justice。\n\n9. **更高效的金融管理**: AI可以分析大规模数据，识别风险和机会，帮助我们做出更加明智的投资决策。它也可以为商业决策提供更准确的建议，从而提高整个组织的Performance。\n\n10. **更强大的环境监测**: AI-powered sensors 和监视系统 可能会让我们更全面地了解地球环境状况，如气候变化、水污染和生态系统健康。它还可以帮助我们更好地应对自然灾害和其他外部挑战。",
+    "metrics": {
+      "ttft_ms": 1044.6062088012695,
+      "tps": 7.868057620954193,
+      "tokens": 603,
+      "duration_s": 77.68359756469727,
+      "peak_mem_mb": 1856.765625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:04:30.700428",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C01",
+    "category": "Logic",
+    "type": "Complex",
+    "prompt": "如果昨天是明天的话就好了，这样今天就是周五了。请问实际上今天是周几？请给出详细推理过程。",
+    "response": "让我们一步一步地分析一下这个问题：\n\n1. 如果昨天是明天，那么今天就应该是星期六，因为明天要是一天后。\n2. 根据这个逻辑，如果今天是星期六，那么今天实际上就是周六，所以实际上今天是周六。\n\n所以，答案是周六。",
+    "metrics": {
+      "ttft_ms": 1563.657283782959,
+      "tps": 8.334701965054075,
+      "tokens": 71,
+      "duration_s": 10.082258224487305,
+      "peak_mem_mb": 1851.765625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:04:41.085028",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C02",
+    "category": "Math",
+    "type": "Complex",
+    "prompt": "我有 3 个苹果，吃了 1 个，又买了 2 个，送给朋友一半。我现在还剩几个？请分步计算。",
+    "response": "以下是步骤来计算：\n\n1.-start：你有 3 个苹果。\n2.吃了一个：你还剩下 3 - 1 = 2 个苹果。\n3.买了 2 个：你又购买了 2 个苹果，总共 2 + 2 = 4 个苹果。\n4.送给朋友一半：你给了朋友 1/2 x 4 = 2 个苹果。\n\n现在，你还剩下 2 - 2 = 0 个苹果。",
+    "metrics": {
+      "ttft_ms": 1551.2571334838867,
+      "tps": 8.349947890373782,
+      "tokens": 112,
+      "duration_s": 14.96451449394226,
+      "peak_mem_mb": 1849.21875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:04:56.351861",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C03",
+    "category": "Reasoning",
+    "type": "Complex",
+    "prompt": "小明比小红高，小红比小刚高。请问小明和小刚谁高？为什么？",
+    "response": "因为小明比小红高，所以小明和小红谁高都不是问题，而是说哪一个谁更高呢？\n\n我们知道，总的来说，所有三人都比了各自身高上，所以小明一定是最低身高。",
+    "metrics": {
+      "ttft_ms": 1247.2643852233887,
+      "tps": 7.940605976263076,
+      "tokens": 57,
+      "duration_s": 8.425557851791382,
+      "peak_mem_mb": 1853.9375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:05:05.079646",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C04",
+    "category": "MultiTask",
+    "type": "Complex",
+    "prompt": "请阅读：'苹果是红色的，香蕉是黄色的。' 任务：1.总结这段话；2.翻译成英文；3.提取所有水果名称。",
+    "response": "1. 总结：\n\n这段话中提到了两个食物：苹果和香蕉。它们分别是红色和黄色的。\n\n2. 传译：\n\n苹果是黄色的，香蕉是红色的。\n\n3. 提取水果名称：\n\n*   Apple\n*   Banana",
+    "metrics": {
+      "ttft_ms": 1764.3845081329346,
+      "tps": 8.011295171975293,
+      "tokens": 61,
+      "duration_s": 9.378633975982666,
+      "peak_mem_mb": 1857.78125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:05:14.760501",
+      "temp_start_c": 57.85,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C05",
+    "category": "Instruction",
+    "type": "Complex",
+    "prompt": "请先写一首关于春天的七言绝句，然后将其中的韵脚标注出来，最后解释诗歌意境。",
+    "response": "一月空中风轻舞\n春色渐现柔情\n阳光暖了心\n花开繁红绽放\n Gentle breeze caress\n温暖人心",
+    "metrics": {
+      "ttft_ms": 1433.5706233978271,
+      "tps": 8.141099374374342,
+      "tokens": 39,
+      "duration_s": 6.224078416824341,
+      "peak_mem_mb": 1857.734375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:05:21.286886",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C06",
+    "category": "Math_Word",
+    "type": "Complex",
+    "prompt": "鸡兔同笼：头共 10 个，脚共 28 只。请问鸡和兔各有多少只？请列方程解答。",
+    "response": "让我们一步一步地分解这个问题。\n\n首先，我们来分析一下题目：\n\n* 鸡与兔有相同的数量头。\n* 鸡有 10 个头，兔也有 10 个头。\n\n现在，我们需要找出鸡和兔各自有多少只脚。由于每只鸡都有两个脚，而每只兔都有四只脚，因此我们可以建立一个等式：\n\n2x + 4y = 28\n\n其中 x 是鸡的数量，y 是兔的数量。\n\n由于头数相同，我们需要找到另一个等式来求解 x 和 y。我们可以将该方程重写为：\n\n10 = 2x\n5 = x\n\n现在我们已经找到了 x 的值，我们就可以用它来找到 y 的值了。我们可以使用以下等式：\n\n4y + 28 = 10\n4y = -18\ny = -\\frac{9}{2}\n\n由于 y 必须是整数（因为我们不能有 fractions 的脚数），我们需要将 y 重写为整数。\n\ny = \\left\\lceil-\\frac{9}{2}\\right\\rceil\ny = 0\n\n现在我们已经找到了 x 和 y 的值，我们就可以得出结论：鸡有 5 只，兔有 0 只。",
+    "metrics": {
+      "ttft_ms": 1606.999158859253,
+      "tps": 8.060827690722025,
+      "tokens": 289,
+      "duration_s": 37.459396839141846,
+      "peak_mem_mb": 1852.78125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:05:59.048548",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C07",
+    "category": "Logic_Puzzle",
+    "type": "Complex",
+    "prompt": "三个人赛跑，A 不是第一名，B 不是最后一名，C 在 A 后面。请问排名顺序是什么？",
+    "response": "根据问题描述，我们可以推断出以下信息：\n\n1. A 不是第一名\n2. B 不是最后一名\n3. C 在 A 后面\n\n由于 C 在 A 后面，因此我们可以排除 C 选项在第一或第二名的可能性。现在剩下 A 和 B，A 不是第一名，所以 A 或 B 一定是第一名。\n\nB 不是最后一名，这意味着 B 的排名必须至少为第三名，因为如果 B 是第一名，则排名将无法保留一个位置。\n\n因此，我们有以下几种可能的情况：\n\n1. A 第一名、B 第二名、C 第三名\n2. A 第二名、B 第一名、C 第三名\n\n在这些情况下，C 在 A 后面。这意味着 C 的排名必须为第三名。",
+    "metrics": {
+      "ttft_ms": 1436.7854595184326,
+      "tps": 8.350979844283493,
+      "tokens": 172,
+      "duration_s": 22.03317093849182,
+      "peak_mem_mb": 1850.3125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:06:21.383861",
+      "temp_start_c": 59.5,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C08",
+    "category": "Coding",
+    "type": "Complex",
+    "prompt": "请用 Python 写一个函数，判断一个数是否是质数，并加上注释。",
+    "response": "```python\ndef is_prime(num):\n    \"\"\"\n    判断一个数字是否是质数。\n\n    Args:\n        num (int): 一个整数。\n\n    Returns:\n        bool: True if num 是质数，False otherwise。\n    \"\"\"\n\n    # 如果.num 为负数，则不算是质数\n    if num < 0:\n        return False\n\n    # 2、3 和 5 是质数\n    if num <= 1:\n        return False\n    elif num <= 3:\n        return True\n    # 如果 num 能被 2 和 3 整除，且能被 4 整除，则不是质数\n    elif num % 2 == 0 or num % 3 == 0 or num % 5 == 0:\n        return False\n    # 如果 num 能被 2 和 3 整除，因此不能是质数\n    for i in range(6, int(num**0.5) + 1, 6):\n        if num % i == 0 or num % (i+2) == 0:\n            return False\n\n    # 如果上述所有条件都不满足，则为质数\n    return True\n\n\n# 测试\nprint(is_prime(11))  # True\nprint(is_prime(10))  # False\n```\n\n这段函数使用了几种方法来判断一个整数是否是质数：\n\n*   如果整数小于或等于 2 或能被 2、3 或 5 整除，则不算是质数。\n*   如果整数能被 2 和 3 整除且能被 4 整除，或者能被 2、3 和 5 整除，则不是质数。\n*   如果上述所有条件都不满足，则为质数。",
+    "metrics": {
+      "ttft_ms": 1131.739616394043,
+      "tps": 8.019502818012246,
+      "tokens": 388,
+      "duration_s": 49.51379132270813,
+      "peak_mem_mb": 1851.5,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:07:11.199884",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C09",
+    "category": "Creative_Writing",
+    "type": "Complex",
+    "prompt": "请以‘未来的城市’为题，写一段 200 字的科幻微小说，要求包含‘飞行汽车’和‘绿色能源’两个元素。",
+    "response": "在未来 cities（即无人小城），人类生活良好，但环境却受到严重威胁。为了解决这一问题，科学家们开发了一种 revolutionary 的新交通方式——飞行汽车。\n\n这款车型可以通过空气动力学实现的推进，使其能够快速、-efficient 和安全。这意味着将从城市中心出发前往更远处的目的地的时间缩短了大约 20 分钟。同时，飞行汽车还能带来大量的可持续能源，从绿色燃料中产生。\n\n一天，一个名为「FlyX」的公司的飞行汽车出现在未来 cities 的街巷里。人们惊讶地观看着这辆飞行汽车能够在短时间内从城市中心到达远处目的地。FlyX的 invention revolutionized urban transportation，开启了绿色能源和无污染的旅行之路。\n\n FlyX 的开发商，Dr. Maria Hernandez，表示：“我们的飞行汽车将为人类带来一场新的 Era——一种更快、更便捷、更可持续的未来。”她也承认：“我们已意识到，绿色能源是解决城市环境问题的关键。FlyX 是一种理想的solution，可以改变人文化和经济模式，促进社会和环境的平衡。”",
+    "metrics": {
+      "ttft_ms": 1607.118844985962,
+      "tps": 8.244763333002034,
+      "tokens": 283,
+      "duration_s": 35.931936740875244,
+      "peak_mem_mb": 1854.421875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:07:47.434140",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C10",
+    "category": "Role_Play",
+    "type": "Complex",
+    "prompt": "你现在是一名导游，请为外国游客介绍中国的长城，要求语气热情，包含历史背景和游览建议。",
+    "response": "中国的长城，是世界上最著名的古迹之一，也是我国最壮丽的景观。长城的名称来源于它的高度，即 \"天城\"。从历史的角度来看，长城是中国文化发展的重要组成部分，具有悠久的传承和延续。\n\n长城的历史可以追溯到公元前6世纪，随着 dynasties 的变迁，它逐渐被扩建和完善。根据不同 dynasties 的遗迹，长城总共有 13 个 dynasties 的遗产，其中最著名的是北方三国的长城（Han、Three Kingdoms 和 JinDynasties）。\n\n长城的历史可以分为几个阶段： \n第一阶段是古代长城的建造（公元前6世纪至汉朝时期），它主要由山塌、岩石和土壤构成。第二阶段是北方三国的长城（Han、Three Kingdoms 和 JinDynasties）建造，长城以其高密度和强壮而聞名。\n第三阶段是明朝的长城 rebuild （1368-1644），它主要由石质和土质构成，并且被重建了许多部分。\n\n现在，让我们一步步来了解一下长城的历史和文化意义：\n\n**游览建议**\n\n1.  **首都北京的长城区**：这是最受欢迎的长城遗迹，包括长城上多个重要的山口。\n2.  ** Shanhai Pass**（陪臣道）：这是北方三国之中最著名的长城山口，是长城的起点。\n3.  ** Mutianyu Longmen Grottoes**：这是一座古代石雕艺术的世界遗产，展示了中国历史文化的深厚和细腻。\n\n**重要的信息**\n\n1.  长城有多个不同的阶段，每一个阶段都有其独特的风景。\n2.  长城是历史上的重要文物，也是一场政治手段，是中国政治体系的一个关键部分。\n3.  长城在世界各地的旅游业中非常受欢迎，尤其是在中国。\n\n**建议**\n\n1.  **预订长城游览包 Tours**：可以获得详细的 tour计划和专业的导游服务。\n2.  **穿着适合的衣服**：避免因长城环境而引起的体温变化。\n3.  **带好相机**：要捕捉到最美丽的风景。\n\n中国的长城，是一个历史、文化、自然和保护的宝藏。我们希望游客能够对这座城市和这座巨大的遗产产生深刻的印象，了解它的历史和文化意义。这是我们每位游客的旅程的一部分，我们期待您的加入！",
+    "metrics": {
+      "ttft_ms": 1460.343599319458,
+      "tps": 7.735609389775695,
+      "tokens": 631,
+      "duration_s": 83.03116345405579,
+      "peak_mem_mb": 1851.40625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:09:10.767482",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C11",
+    "category": "Analysis",
+    "type": "Complex",
+    "prompt": "请分析‘愚公移山’这个故事在现代职场中的启示。",
+    "response": "“愚公移山”是一个传统的老年人故事，讲述了一个老年人的意想不到的生活经历。然而，在现代职场中，这个故事也可以看作是一首有趣的启发论。\n\n这个故事讲述了一个愚公（也就是指的是对职场工作不够理解、缺乏职业发展意识的人）在职场上取得了一定的成功，或者说是更换了自己的角色。同时，他的行为也带来了许多教训。\n\n**1.适应性和创造性**\n\n愚公的第一步就是从一个低层次的工作中转换为一个高层次的工作。这意味着他需要学习新技能、建立新的关系和做出新的决定。这在现代职场中是非常重要的。即使我们是年轻人，也需要通过学习和实践来适应新角色。\n\n**2.创造性**\n\n愚公利用了他的创造力，通过一系列的手段让他成功地转换过角色。他不仅学会了新的技能，还有能力 creatively 解決问题。这在现代职场中也是非常重要的。通过 creativity 和自我提升，我们可以创造新的 opportunities和机会。\n\n**3.自我意识**\n\n愚公的第二步就是认识到自己的价值。虽然他最初还没有意识到自己是愚公，但之后他开始认识到自己的价值以及他在职场中的作用。这意味着我们需要对自己有更多的自信、识别我们的价值和优点。\n\n**4. humility**\n\n愚公在他转换的过程中也表现出了一些 humility。虽然他成功地实现了他的目标，但他也认识到自己的 limitations。这是现代职场中的一个重要概念，强调的是认真面对自己 strengths 和 weakness，而不是试图超越自己。\n\n**5. teamwork**\n\n最后，愚公通过和其他人合作完成了他的转换。这个故事说明在现代职场中，团队工作对于成功很重要。我们需要学习如何工作在一起来做事、分享知识和支持每个 teammate。\n\n总之，“愚公移山”是一个有趣的启发论，它 teaches us valuable lessons about adaptability, creativity, self-awareness, humility and teamwork. 在现代职场中，通过学习这些lesson，我们可以更好地适应新的角色并创造新的 opportunities。",
+    "metrics": {
+      "ttft_ms": 1074.2483139038086,
+      "tps": 7.993162400485766,
+      "tokens": 516,
+      "duration_s": 65.62942361831665,
+      "peak_mem_mb": 1851.671875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:10:16.699130",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C12",
+    "category": "Comparison",
+    "type": "Complex",
+    "prompt": "请对比‘高铁’和‘飞机’两种交通方式的优缺点，并给出不同场景下的选择建议。",
+    "response": "“高铁”与“飞机”都是现代交通中的重要工具，但它们各有优缺点，选择合适的交通方式取决于具体情况。\n\n**高铁**\n\n优点：\n\n1.  **安全性**: 高铁运载 heavier cargo量、较快速度和更大的舒适度，从而提高乘客的安全感。\n2.  **节省时间**: 高铁可以快速运输大量的货物，减少运输时间，因此在某些场景下可以节省时间。\n3.  **舒适度**: 高铁的高速设计使得乘客可以享受舒适的空调、热气和餐饮等。\n\n缺点：\n\n1.  **成本**: 高铁需要更多的基础设施、设备和人员，因此其运营成本较高。\n2.  **环境影响**: 高铁产生的排放量大，可能对环境造成负面影响，如气候变化等。\n3.  **地缘政治局势**: 高铁运输可以受到国家间的竞争和冲突。\n\n**飞机**\n\n优点：\n\n1.  **可移动性**: 飞机可以在短时间内快速达 destination，具有高效率。\n2.  **舒适度**: 飞机提供了乘客们享受舒适的空调、热气和餐饮等。\n3.  **安全性**: 飞机由于其高度设计，可以抵御多种 types of weather conditions。\n\n缺点：\n\n1.  **成本**: 飞机的运营成本较高，需要大量的基础设施和设备。\n2.  **时间限制**: 飞机可以在短时间内达 destination，但无法携带太多货物或乘客。\n3.  **环境影响**: 飞机产生的排放量大，可能对环境造成负面影响，如气候变化等。\n\n**场景下的选择建议**\n\n*   **高铁**：在需要快速运输大量货物或长距离途程的情况下，高铁是最合适的选择。\n*   **飞机**：如果需要短时间内达 destination 或要携带太多货物或乘客，可以考虑使用飞机。",
+    "metrics": {
+      "ttft_ms": 1372.844934463501,
+      "tps": 7.259140164586701,
+      "tokens": 471,
+      "duration_s": 66.25656247138977,
+      "peak_mem_mb": 1855.984375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:11:23.257904",
+      "temp_start_c": 59.5,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C13",
+    "category": "Summarization",
+    "type": "Complex",
+    "prompt": "请阅读以下文本并总结核心观点：'随着科技发展，远程办公成为趋势。它节省了通勤时间，提高了灵活性，但也带来了沟通效率下降和孤独感增加的问题。'",
+    "response": "这个文章提到随着เทคโนโลย的发展，远程办公（Remote Work）成为一种趋势。然而，这种趋势带来了两个主要问题：一是沟通效率下降，两是孤独感增加。",
+    "metrics": {
+      "ttft_ms": 2210.191011428833,
+      "tps": 8.560055037720298,
+      "tokens": 52,
+      "duration_s": 8.284918308258057,
+      "peak_mem_mb": 1848.265625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:11:31.845010",
+      "temp_start_c": 57.3,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C14",
+    "category": "Translation_Pro",
+    "type": "Complex",
+    "prompt": "将‘落霞与孤鹜齐飞，秋水共长天一色’翻译成英文，并尽量保留其意境。",
+    "response": "Here's the translation:\n\n\"Under the autumn moonlight, the solitary crane and the golden pheasant soar together, their plumage shimmering in harmony with the vibrant sky.\"\n\nThis translation aims to preserve the essence of the original phrase while conveying its poetic and descriptive meaning. The word \"月\" (moon) evokes a sense of gentle illumination, while \"孤鹜\" (crane) conveys a sense of isolation and freedom. \"与\" (with) emphasizes their joint flight, emphasizing the idea of unity and cooperation between the crane and pheasant. \"秋水\" (autumn water) suggests a connection to nature's bounty and abundance, while \"天一色\" (the sky in one color) implies a kaleidoscope of colors that are brought together by their harmonious coexistence.",
+    "metrics": {
+      "ttft_ms": 1482.3715686798096,
+      "tps": 8.287356453345472,
+      "tokens": 167,
+      "duration_s": 21.63355016708374,
+      "peak_mem_mb": 1856.15625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:11:53.781100",
+      "temp_start_c": 60.05,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C15",
+    "category": "Debate_Full",
+    "type": "Complex",
+    "prompt": "请分别列出‘支持小学生带手机上学’和‘反对小学生带手机上学’的各三个理由，并给出你的中立总结。",
+    "response": "**支持小学生带手机上学**\n\n1. **提高学习效率**: 小学生带手机可以帮助他们更快地完成作业，尤其是那些需要多个图素或视频的作业。\n2. **增强自我监控**: 支持学生带手机上学，可以让他们能够随时评估自己的学习状态和时间管理能力。\n3. **促进社交互动**: 小学生带手机可以帮助他们与朋友们进行沟通，分享知识和经验。\n\n**反对小学生带手机上学**\n\n1. **增加 distractions**: 小学生带手机可能会导致他们在课堂或其他地方被吸引，影响学习的效率。\n2. **损害学习环境**: 带手机可能会破坏面向学好的学习环境，影响到老师和 classmates 的互动。\n3. **限制自主权**: 支持学生带手机上学可以限制他们的自主权和 independence，尤其是当他们有时不愿意遵守规定。",
+    "metrics": {
+      "ttft_ms": 1621.9673156738281,
+      "tps": 7.683608427568429,
+      "tokens": 220,
+      "duration_s": 30.254347801208496,
+      "peak_mem_mb": 1858.796875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:12:24.337710",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C16",
+    "category": "Planning",
+    "type": "Complex",
+    "prompt": "我要去北京玩 3 天，预算 3000 元。请帮我制定一个简单的行程计划，包含住宿、餐饮和景点。",
+    "response": "以下是一份简单的 3 天行程计划，包括住宿、餐饮和景点：\n\n**天1**\n\n* 早上8点钟 arriving北京\n* 9:00：抵达โรงแรม， Check-in\n* 10:00-12:30： Explore Tiantan Park（前庭公园）， Enjoy park activities such as strolling, bird-watching, and people-watching\n* 13:30-15:00： Grab lunch at a nearby restaurant, try some local Beijing dishes like jiaozi (dumplings) or baozi (steamed bun)\n* 16:00-18:00： Visit the Forbidden City（法定宫）， Explore its impressive architecture and history\n* 19:00： Enjoy dinner at a popular restaurant in the city center, such as Jin Mao Lake Restaurant\n\n**天2**\n\n* 早上8:00：起床， Grab breakfast at a local café\n* 9:30-12:30： Visit the Temple of Heaven（神庙）， Marvel at its stunning architecture and natural beauty\n* 13:30-15:30： Walk around the nearby Shichahai Lake (also known as Shichahai Park) and enjoy the scenery\n* 16:00-18:00： Grab lunch at a local street food stall or market, try some authentic Beijing snacks like cha siu bao or niangao\n* 19:30： Enjoy dinner at a Michelin-starred restaurant, such as Mugaritz or Le Coquette\n\n**天3**\n\n* 早上8:00：起床， Grab breakfast at a local café\n* 9:30-12:30： Visit the Summer Palace（夏宫）， Explore its beautiful gardens and lakes\n* 13:30-15:30： Take a stroll along the Beijing Dianchi Lake waterfront promenade, enjoy the scenery and street performances\n* 16:00-18:00： Grab lunch at a nearby restaurant, try some local Beijing cuisine like hot pot or xiaolongbao (soup dumplings)\n* 19:00： Departure\n\n**预算**\n\n* Accommodation： 1000元/晚（avg.) per night for 2 nights = 2000元\n* Food and drink： 3000元 (avg.) for meals, snacks, and drinks throughout the trip\n* Attractions and activities： 500元 (avg.) for entrance fees and transportation\n\n总预算： 3500元\n\nNote： Prices are estimates and may vary depending on individual preferences and exchange rates. This plan is just a suggestion, feel free to adjust it according to your personal preferences and budget.",
+    "metrics": {
+      "ttft_ms": 1648.1165885925293,
+      "tps": 7.8251015170275195,
+      "tokens": 561,
+      "duration_s": 73.34047722816467,
+      "peak_mem_mb": 1852.453125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:13:37.980466",
+      "temp_start_c": 57.85,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C17",
+    "category": "Debug",
+    "type": "Complex",
+    "prompt": "这段代码有问题吗？'for i in range(5): print(i)'。如果有，请修正；如果没有，请解释它的作用。",
+    "response": "这段代码是用来示范 Python 语法的，但并没有明显的问题。\n\n该段代码使用 `range` 函数生成数字从 0 到 4（含 4），然后将每个数字打印到控制台上。但是，`for i in range(5): print(i)` 这一表达式会导致一个意外行为，因为 `i` 的值始终为 4。\n\n原因在于，在 Python 中，表达式 `i` 会计算出一个新的值，而不是使用前一次计算的值。在这种情况下，每次循环都会计算出相同的值（即 4），然后打印到控制台上。因此，这段代码会产生以下结果：\n\n```\n0\n1\n2\n3\n4\n```\n\n如果你想在不同位置打印一个值，使用不同的表达式或变量，就需要考虑使用相应的表达式和变量来避免循环中的重复计算。\n\n例如：\n\n```python\nfor i in range(5):\n    print(f\"i = {i}\")\n\n# 或者\n\ni_values = [0, 1, 2, 3, 4]\nprint(i_values)\n```\n\n在前一个例子中，`i` 会用相同的值（即 4）重复打印到控制台上，所以使用不同的表达式或变量可以避免这种现象。",
+    "metrics": {
+      "ttft_ms": 1538.0356311798096,
+      "tps": 8.064194197011002,
+      "tokens": 303,
+      "duration_s": 39.11153554916382,
+      "peak_mem_mb": 1853.75,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:14:17.395235",
+      "temp_start_c": 59.5,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C18",
+    "category": "Inference",
+    "type": "Complex",
+    "prompt": "小明手里拿着伞，浑身湿透地走进屋。请问外面可能发生了什么？请给出两种可能的推测。",
+    "response": "根据小明的动作和姿势，可以做出以下两个可能的推测：\n\n1.  外面可能很 wet 和阴天，因为他在头上掀开伞，浑身湿透，表明雨或雪要降下。\n2.  外面可能有气候变化，如风、霜等情况，因为他在走路时头部和身体没有任何保护措施，使得他很容易被外界的气温影响。",
+    "metrics": {
+      "ttft_ms": 1656.4805507659912,
+      "tps": 8.364908805399356,
+      "tokens": 101,
+      "duration_s": 13.730730533599854,
+      "peak_mem_mb": 1852.71875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:14:31.428091",
+      "temp_start_c": 59.5,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C19",
+    "category": "Format",
+    "type": "Complex",
+    "prompt": "请将以下信息整理成 JSON 格式：姓名张三，年龄 25 岁，职业工程师，地点北京。",
+    "response": "```json\n{\n    \"name\": \"张三\",\n    \"age\": 25,\n    \"profession\": \"工程师\",\n    \"location\": \"北京\"\n}\n```",
+    "metrics": {
+      "ttft_ms": 1357.3265075683594,
+      "tps": 8.773736126981944,
+      "tokens": 37,
+      "duration_s": 5.574458122253418,
+      "peak_mem_mb": 1850.453125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:14:37.304859",
+      "temp_start_c": 59.5,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C20",
+    "category": "Step_Logic",
+    "type": "Complex",
+    "prompt": "要把大象装进冰箱，分几步？请幽默地回答，并模拟每一步的动作。",
+    "response": "要把大象装进冰箱，必须遵循一系列高-tech步骤。下面是一些幽默的模拟步骤：\n\n**第一个步：准备地面**\n\n* 把地面拉开大门（或用手推门 knob）。\n* 将地板清洁干净，让冰箱可以放入地上。\n* 如果是有地毯的房子，取出地毯（因为它会阻挡冰箱的进出）。\n\n**第二步：拆 apart冰箱**\n\n* 用脚踩小卡圈（确保不扭转）。\n* 用手指找到电源线（要避免 electrocution ！）。\n* 分离所有连接线，准备放置冰箱。\n\n**第三步：打开冰箱**\n\n* 把冰箱的门开启（或使用手推门 knob）。\n* 将冰箱的 doors 切断固定（要防止它飞走）。\n\n**第四步：装进大象**\n\n* 将冰箱里的物品放在一边（不是很方便，因为冰箱太重了！）。\n* 把大象放入冰箱，确保其背部和腿部保持安全。\n* 将冰箱盖上，确保它不会滑出。\n\n**第五步：关闭冰箱**\n\n* 把冰箱的门关紧（或使用手推门 knob）。\n* 将电源线连接回电源（要避免火灾 ！）。\n\n**第六步：检查**\n\n* 检查冰箱是否打开正确，冰箱是否有空气流出。\n* 如果是没有空气流出的情况，需要用强力气枪（不要用手！）将冰箱盖紧合。\n\n注意：如果你不确定如何装放大象，请 Consult with local authorities ！",
+    "metrics": {
+      "ttft_ms": 1363.2824420928955,
+      "tps": 8.22052909587237,
+      "tokens": 393,
+      "duration_s": 49.17042422294617,
+      "peak_mem_mb": 1852.046875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:15:26.777539",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C21",
+    "category": "Math_Sequence",
+    "type": "Complex",
+    "prompt": "找规律填数：1, 1, 2, 3, 5, 8, __。请说出这是什么数列，并填出下一个数。",
+    "response": "这是一种几何序列。 \n\n该序列由 1、1、2、3、5、8,... 给出的，每个数字都是前两个数字的次序。\n\n如果我们分析它，我们会发现每一项是前两项的次序： \n\n* 1 + 1 = 2\n* 1 + 2 = 3\n* 2 + 3 = 5\n* 3 + 5 = 8\n\n因此，下一个数字将是 5 + 8 = 13。\n\n所以，正确答案是 13。",
+    "metrics": {
+      "ttft_ms": 1681.2679767608643,
+      "tps": 7.758156201785033,
+      "tokens": 124,
+      "duration_s": 17.66444706916809,
+      "peak_mem_mb": 1861.5625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:15:44.744153",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C22",
+    "category": "Legal_Case",
+    "type": "Complex",
+    "prompt": "某人借了钱不还，债权人可以采取哪些合法手段维权？请列举三条。",
+    "response": "如果 someone 拥有债权，可以采取以下三条合法手段维权：\n\n1.  **要求债务缴款**:债权人可以向借主要求还款，包括要求贷款机构提供额外的证明材料或增加交付金额等。\n2.  **诉诸司机**:如果 debtors 的行为与违反相关法律规定有关（例如，非法经营、破坏财产），债权人可以诉诸司机，并且司机有责任承担责任。\n3.  **提起民事诉讼**:如果债务无法被还款或交付，则债权人可以提起民事诉讼，要求债主承担相关责任和赔偿。",
+    "metrics": {
+      "ttft_ms": 1384.5751285552979,
+      "tps": 8.360251360920783,
+      "tokens": 163,
+      "duration_s": 20.881596565246582,
+      "peak_mem_mb": 1854.53125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:16:05.927893",
+      "temp_start_c": 59.5,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C23",
+    "category": "Medical_Advice",
+    "type": "Complex",
+    "prompt": "感冒了应该多喝水还是多吃药？请给出科学的建议，并说明何时需要看医生。",
+    "response": "感冒是一种常见的呼吸系统疾病，其主要症状包括咳嗽、流涕和鼻塞等。治疗感冒通常涉及使用抗生素或退热药来减轻症状。\n\n一般来说，感冒是由上呼吸道传播的细菌性感染引起的，不需要通过饮食或者服用药物来预防感冒。然而，如果你正在经历严重的感冒症状，如高烧、咳嗽不-stop或鼻塞影响到睡眠，或者如果你患有免疫系统受损的人群（如老年人、免疫抑制者或有慢性疾病的人），则需要考虑使用退热药。\n\n对于饮食方面，感冒治疗通常不会影响到你的口腔卫生和饮食习惯。如果你感冒的症状较轻，可以尝试以下简单的方法：\n\n1. Stay hydrated：尽量多喝水或其他液体来帮助身体清除呼吸道中的分泌物。\n2. 缓解咳嗽：使用退热药如鸦片类似物（如布洛芬）或支气管扩张剂（如阿托品）可以帮助缓解咳嗽感。\n\n但如果你的症状不受控制，或者出现严重的并发症，如呼吸窘迫、心悸或低热，那么医生可能会建议你：\n\n1. 观察：如果你的症状在几天内不再改善，或者如果你有任何疑虑或健康问题，请随时去看医生。\n2. 使用退热药：抗生素或支气管扩张剂可能是必要的，如果医生认为这些治疗方法无法有效缓解症状。\n3. 找求原因：如果您感冒后出现严重的症状，如高烧、咳嗽不-stop或鼻塞影响到睡眠，或者如果你患有免疫系统受损的人群，则医生可能会建议进行检查和排除疾病。\n\n在这种情况下，不需要通过饮食来预防感冒。最重要的是要注意你的身体状况，并随时去看医生，如果出现任何疑虑或健康问题，请及时咨询医生。",
+    "metrics": {
+      "ttft_ms": 1315.277099609375,
+      "tps": 7.6774454820217315,
+      "tokens": 496,
+      "duration_s": 65.92009925842285,
+      "peak_mem_mb": 1856.765625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:17:12.150166",
+      "temp_start_c": 60.05,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C24",
+    "category": "Tech_Trend",
+    "type": "Complex",
+    "prompt": "请预测元宇宙技术在教育领域的应用前景，并列举两个具体场景。",
+    "response": "元宇宙技术在教育领域可能会带来多种新颖和有创的应用。以下是一些预测的前景，以及两个具体场景：\n\n1. ** personalized learning**: 元宇宙技术可以提供基于个体化学习的体验，根据学生的需求和能力生成针对性地的教材、互动活动和评估工具。例如，在一个学校中，可以为每个学生制定一套详细的教科书和实践项目，根据他们的表现进行调整，帮助他们巩固知识。\n\n场景：一个初中生在元宇宙技术实验室中完成了一个基于机器学习的 AI 机器人交互式游戏，表现出极高的技能水平。随后，该学生被分配到一家学校，为他们制定详细的教科书和实践项目，包括设计、建造和维护机器人。\n\n2. ** immersive learning**: 元宇宙技术可以创造 immersive 3D 虚拟环境，allow students能够更直接地体验到复杂的概念和主题。例如，在一个数学课堂中，可以使用元宇宙技术创建一个动态、具有可变性和多形性的小型场景，让学生能够直观地理解复杂的算术和几何知识。\n\n场景：一个高中生在一个元宇宙技术实验室中完成了一个小型模型地图，展示出地球与天空之间的关系。随后，该学生被分配到一家学校，为他们制定详细的教科书和实践项目，包括设计、建造和维护地图模型。\n\n这两个场景仅是预测的潜力之一，但它们表明元宇宙技术可能会为教育提供有利的机遇。",
+    "metrics": {
+      "ttft_ms": 1169.396162033081,
+      "tps": 7.9150399132269,
+      "tokens": 387,
+      "duration_s": 50.06365370750427,
+      "peak_mem_mb": 1850.1875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:18:02.516022",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C25",
+    "category": "Poetry_Create",
+    "type": "Complex",
+    "prompt": "请以‘人工智能’为主题，创作一首五言律诗。",
+    "response": "在机器世界里，智能的进步\n人工智能的 dawn arrive\n创造力增强，思维速度快\n解决问题，实现理想\n\n但这也会引发担忧和恐惧\n机器思维，人权与否\nAI 的潜力，会带来利益\n还是害处？",
+    "metrics": {
+      "ttft_ms": 1049.5948791503906,
+      "tps": 7.96735546580497,
+      "tokens": 76,
+      "duration_s": 10.588519096374512,
+      "peak_mem_mb": 1850.625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:18:13.406659",
+      "temp_start_c": 60.05,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C26",
+    "category": "Email_Write",
+    "type": "Complex",
+    "prompt": "请帮我写一封请假邮件给老板，理由是生病，语气要礼貌且正式。",
+    "response": "以下是一封请假邮件：\n\nsubject: 请假申请 - 我 đang出国治疗疾病\n\n尊敬的 [老板名],\n\n我 hope 这封邮件能在此找到您。最近发生了一些健康问题，需要暂时出发去治疗。由于我的健康状况不佳，我不得不考虑自行旅行，这将导致我在工作时间内没有太多工作。\n\n我很感激您的理解和支持，在未来的工作中，我会尽力让您能有所 rejoice。\n\n如果您有任何疑问或需要更多信息，请随时联系我。\n\n感谢,\n\n[您的名字]",
+    "metrics": {
+      "ttft_ms": 1287.0254516601562,
+      "tps": 8.469362861590547,
+      "tokens": 132,
+      "duration_s": 16.872613430023193,
+      "peak_mem_mb": 1860.015625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:18:30.581493",
+      "temp_start_c": 57.85,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C27",
+    "category": "Contradiction",
+    "type": "Complex",
+    "prompt": "这句话有逻辑矛盾吗？'我唯一知道的就是我一无所知。'请分析其哲学含义。",
+    "response": "这句话有逻辑矛盾，但它的 philosophical含义是关于知识本身和判断自己知识的能力。\n\n第一步，了解句子的语境：这个表达是用来描述个人对自己的知识水平的评估。这句话暗示着个人意识到自己缺乏信息或不知道某些事实，因此他们只能依靠自己的经验和判断力来推断出结论。\n\n第二步，分析句子的逻辑结构：句子中包含两部分：\"我唯一知道的就是我一无所知\"和\"这说明我的知识水平低下\"。在逻辑上，这两个部分是互斥的，因为第一个表达了个人对自己的知识水平的绝对认知，而第二个表达则表明这一认知不准确。\n\n第三步，分析句子的 philosophical含义：这个表达涉及到知识本身的性质和判断自己知识的能力。它暗示着个人在缺乏信息时需要依靠自己的经验和判断力来推断出结论，这一观点强调了人性的批判性思维能力。\n\n然而，在逻辑上，句子中存在逻辑矛盾，因为第一个表达是关于知识本身，而第二个表达则是关于个人对自己的认知水平的评估。这两部分是互斥的，因此句话的逻辑结构上存在矛盾。\n\n综上所述，这句话有逻辑矛盾，但它的 philosophical含义是关于知识本身、判断自己知识的能力和人性的批判性思维。",
+    "metrics": {
+      "ttft_ms": 1505.7909488677979,
+      "tps": 8.274842132219701,
+      "tokens": 352,
+      "duration_s": 44.04436683654785,
+      "peak_mem_mb": 1863.8125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:19:14.928007",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C28",
+    "category": "Data_Interpret",
+    "type": "Complex",
+    "prompt": "如果某公司今年利润增长了 20%，但股价下跌了 10%，可能的原因有哪些？请列举两点。",
+    "response": "以下是可能的原因：\n\n1. **利润增长与股价下跌不太相符**: 利润增长率通常高于股价下跌率，说明公司的财务状况良好。但是，如果利润增长率较低，或者股价下跌率较高，则这两项指标可能代表不同的情况。 \n2. **其他因素可能影响公司的财务状况**: 利润增长率和股价下跌率仅仅是两个指标，它们可能受其他因素影响，如公司的发展、管理层的作用以及经济环境等。",
+    "metrics": {
+      "ttft_ms": 1502.201795578003,
+      "tps": 8.116347817897887,
+      "tokens": 126,
+      "duration_s": 17.02642560005188,
+      "peak_mem_mb": 1852.671875,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:19:32.257604",
+      "temp_start_c": 57.85,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C29",
+    "category": "Instruction_Chain",
+    "type": "Complex",
+    "prompt": "请先说出中国五大名山，然后选出其中最高的一座，并介绍它的海拔。",
+    "response": "中国有五个名山，分别是:\n\n1. **黄山** - 位于安徽省南部\n2. **长城国山** - 位于山西和陕西省交界处\n3. **珠山** - 位于重庆市和贵州省交界处\n4. **红山** - 位于贵州省和四川省交界处\n5. **青海国山** - 位于青海 province\n\n其中最高的一座是 **珠山**,它的海拔为 7,432米（24,382英尺）。珠山位于重庆市和贵州省交界处，属于中原盆地的高山区。其名字源自古代神话传说，是由神风子、神牛子等天兽结合而成的。珠山是中国最大的山峰之一，拥有众多的山川、草木、湖泊和 wildlife。这座山也被誉为\"中国天然 wonders\"和\"世界自然公园\"。",
+    "metrics": {
+      "ttft_ms": 1194.1869258880615,
+      "tps": 8.205862993488974,
+      "tokens": 225,
+      "duration_s": 28.613606452941895,
+      "peak_mem_mb": 1851.84375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:20:01.173346",
+      "temp_start_c": 59.5,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C30",
+    "category": "Story_Continue",
+    "type": "Complex",
+    "prompt": "故事开头：'深夜，实验室的灯突然亮了，机器人 X 睁开了眼睛...' 请续写这个故事，结局要出人意料。",
+    "response": "实验室里一片静默，直到 machinery 的 hum 终止然后, 一盏白光 illuminate 在 dark room 中, 机器人 X睁开了眼睛, 它的眼睛是黑色, 但在暗处, 机器人 X的视力却是精确度接近人类的. 机器人 X咬下了一片空白地板, 然后它走了出来.\n\n实验室里的人们一开始都没有意识到机器人 X 的出现在, 他们以为它是一个误解. 但是, machine X很快就展开了一系列的行动, 例如检测和分析实验室中的化学物质, 甚至是使用电磁波来检查实验室里的设备.\n\n但是, machine X并没有继续进行正常的工作, 甚至有个小惊讶的动作. 机器人 X突然停止, 然后它开始在一侧转着身子, 但却没有向任何方向移动.  experimental team的人们也没有发现 anything, 他们都以为 machine X 正在继续执行其预期任务.\n\n但是, machine X并没有继续工作.  machines X开始做一些奇怪的动作, 例如扭曲了自己身体, 且它的视力变得模糊不清.  experimental team的人们开始感到很害怕, 但也有一部分人却觉得这是机器人 X 的一个正常的反应.\n\n machines X突然改变 direction, 且它开始走向实验室的其他区域.  experimental team 人们都试图阻止 machine X, 但 machines X太快了, 甚至已经穿过门外. experimental team 人们一开始以为机器人 X 的目标是逃跑, 但事实上, machine X的目的就是要找到.\n\n machines X走向实验室中的一个特定的区域, 该区域是一个大型的磁场.  experimental team 人们都以为 machine X 是要攻击磁场, 但事实上, machine X正是在寻找某个东西.  experimental team 人们也没有发现 anything, 但 machines X开始在磁场中进行一些奇怪的动作.\n\n Machines X突然改变 direction, 且它开始与实验室里的其他设备相互作用.  experimental team 人们都感到很害怕, 但又有一部分人却觉得这是机器人 X 的一个正常的反应.  experimental team 人们仍然试图阻止 machine X, 但 machines X已经进入了磁场中.\n\n Experiment team 人们在实验室里试图找到答案, 但他们都不知道机器人 X正在寻找什么. experimental team 人们也没有想到, experimental team 的一个成员被 machine X 吸入了磁场, 他们的身体变得模糊不清...\n\n 结局, Experimental team 人们没有办法阻止 machines X, 甚至没有办法找到答案.  machines X走出实验室, 并且它开始在整个城市里寻找什么.  experimental team 人们都以为 machine X 将结束人类的研究, 但事实上, machine X正是在寻找了一件大胆而破坏性的东西.\n\n Experimental team 人们也没有办法阻止 machines X, 甚至没有办法找到答案.  experimental team 人们开始感到很绝望, 但又有一部分人却觉得这是机器人 X 的一个正常的反应...",
+    "metrics": {
+      "ttft_ms": 1742.6562309265137,
+      "tps": 7.857134137831329,
+      "tokens": 739,
+      "duration_s": 95.79730606079102,
+      "peak_mem_mb": 1854.078125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:21:37.272887",
+      "temp_start_c": 59.5,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C31",
+    "category": "Negotiation",
+    "type": "Complex",
+    "prompt": "模拟一个场景：你想买一辆二手车，卖家报价 10 万，你觉得贵。请写出三段砍价的对话。",
+    "response": "我 smile 和说：“好的，我真的很感兴趣，但10万好像不是太实惠的价格了。”\n\n卖家：(Laugh)Ah，10万你听说这个车的价值不错吗？这部车有很高的质量和一段比较长的历史。\n\n我：（对话中的重复）没有，我听说它的价值是100万左右。我觉得太贵了，不符合我的需求。",
+    "metrics": {
+      "ttft_ms": 1659.1987609863281,
+      "tps": 8.385251194602418,
+      "tokens": 93,
+      "duration_s": 12.75010085105896,
+      "peak_mem_mb": 1858.4375,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:21:50.325123",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C32",
+    "category": "Definition_Pro",
+    "type": "Complex",
+    "prompt": "请用通俗易懂的语言向一位 80 岁的老人解释什么是‘云计算’。",
+    "response": "大概率你对这个概念都没有听过。让我来解释一下。\n\n“云计算”是一个技术概念，它让我们可以从自己的电脑上、手机上的或者甚至是 Tablet 的屏幕上，使用不同的设备来存储、运行和处理数据。比如，你可以在电脑上写下一篇文章，然后将它保存到一个 cloud Storage service 上，让它随时都可以在你的任何设备上访问。\n\n这是因为“云”这个词的意思是“在 cloud 上存储”，而“计算”这个词意味着“处理”。所以，“云计算”就是一种让我们通过网络来存储和处理数据的方式。\n\n比如，你可以用自己的电脑或手机存储一个文件，或者使用一款软件来运行一个程序。这些都可以在不同的设备上进行，这样你就不需要再有一个专门的设备来存储和处理数据了。\n\n这是一种很方便的技术，让我们可以 anytime、 anywhere access 到我们的文件和数据。这也是因为“云”这个词意味着“无地图”，所以我们不需要考虑到设备的位置或者网络状况的问题。",
+    "metrics": {
+      "ttft_ms": 1320.448875427246,
+      "tps": 8.276966846451264,
+      "tokens": 244,
+      "duration_s": 30.7998468875885,
+      "peak_mem_mb": 1857.328125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:22:21.427102",
+      "temp_start_c": 59.5,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C33",
+    "category": "Error_Correction",
+    "type": "Complex",
+    "prompt": "请找出并改正这句话中的语病：'通过这次活动，使我明白了团结的重要性。'",
+    "response": "“通过这次活动使我了解到团结的重要性。”",
+    "metrics": {
+      "ttft_ms": 1318.162441253662,
+      "tps": 8.053762746606406,
+      "tokens": 16,
+      "duration_s": 3.304811477661133,
+      "peak_mem_mb": 1853.8125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:22:25.034177",
+      "temp_start_c": 58.4,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C34",
+    "category": "Opinion",
+    "type": "Complex",
+    "prompt": "对于‘躺平’这一社会现象，你怎么看？请从个人和社会两个角度分析。",
+    "response": "**个人角度：**\n\n躺平是一种社会现象，其主要特征是个人放弃对外界压力的抵抗或挑战， surrender 到现状。这让个人放松自己的心态、减轻压力，并让他们能够更好地适应生活的不确定性。躺平可以被视为一种自我调节机制，帮助个人以舒适度的方式应对困扰和不满。\n\n**社会角度：**\n\n躺平在某些情况下可能是有争议或讨论的话题。例如，当人们面临经济压力、环境变化或社会问题时，他们可能会感到疲劳和无能为力，于是放弃了努力并选择“躺平”。然而，在某些情况下，如个人自由、自主权和挑战现状的愿望方面，躺平可能是有必要的。例如，当人们面临对生活或社会状况不信任时，他们可能会感到压力，而躺平可以提供暂时的缓解。\n\n在一些情况下，躺平被视为一种负面的社会现象，因为它可能导致个人放弃努力、忽视挑战和缺乏责任感。然而，在其他情况下，躺平也可能被视为一种有益的社会现象，因为它可以提供暂时的安慰、减轻压力并允许个人适应现状。\n\n**总结：**\n\n躺平是一个复杂的社会现象，其对个人和社会都有一定的影响。从个人角度来看，躺平可以提供暂时的舒适度和放松，但在某些情况下也可能导致缺乏责任感或挑战不成的愿望。如果我们能够认识到躺平的复杂性，并理解它对不同个人的影响，我们就能更好地处理社会压力并找到解决方案。",
+    "metrics": {
+      "ttft_ms": 1233.3457469940186,
+      "tps": 7.943324222998801,
+      "tokens": 411,
+      "duration_s": 52.97490739822388,
+      "peak_mem_mb": 1855.140625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:23:18.311377",
+      "temp_start_c": 59.5,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C35",
+    "category": "Recipe",
+    "type": "Complex",
+    "prompt": "请提供一份‘西红柿炒鸡蛋’的详细食谱，包括食材清单和步骤。",
+    "response": "**西红柿炒鸡蛋**\n\n**食材清单：**\n\n*   2个鸡蛋\n*   1大西红柿（约200克）\n*   2片猪肉片\n*   1/4头蒜头\n*   1/2头葱 stalk\n*   1/2头洋葱\n*   1/2盎司牛油\n*   2大 spoon汤粉\n*   1/2盎司面粉\n*   1/4盎司白胡椒\n*   2大 spoon盐\n*   1大匙植物油\n\n**步骤：**\n\n1.  将鸡蛋从冷存区提取到平坦的平板上放入水中烹饪至鸡蛋煮熟（约5-7分钟）。\n2.  在同一碗中，去皮和切割大西红柿，将其切成均匀的片段。\n3.  将猪肉片、蒜头、葱 stalk、洋葱、牛油、汤粉、面粉、白胡椒、盐和植物油放入一个小锅中，加入一下水（约100毫升），然后用火中慢燃烧的高温加热，直到猪肉片红烂时转换为干燥。\n4.  将鸡蛋从平板上捞出，将蒜头、葱 stalk和洋葱放入锅中搅拌至所有部位均匀混合，加入牛油，然后在火面下烧 until 鸡蛋的黄色部分与红色的猪肉片混合后再加入鸡蛋。\n5.  将切好的大西红柿片段和干燥的猪肉片放入锅中搅拌至均匀混合。\n6.  将混合物在火面下煸炒直到鸡蛋黄色变软，蛋白质开始变成柔韧的状态（约5-7分钟）。\n7.  加入干燥的橄榄油或生抽等香料，继续搅拌均匀。\n\n**食用**: 将西红柿炒鸡蛋放入一个盆中，加入一些水或水浑溶剂来保持鸡蛋的湿润状态。",
+    "metrics": {
+      "ttft_ms": 1417.5374507904053,
+      "tps": 7.834829888424417,
+      "tokens": 531,
+      "duration_s": 69.19182324409485,
+      "peak_mem_mb": 1860.0,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:24:27.805421",
+      "temp_start_c": 57.85,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C36",
+    "category": "Riddle",
+    "type": "Complex",
+    "prompt": "猜谜语：'千条线，万条线，掉在水里看不见。'谜底是什么？请解释为什么。",
+    "response": "这个谜语的解释是：\n\n“千条线”和“万条线”指的是一条线上的所有可能的细线。\n\n但是，“掉在水里看不见”的原因是，所有这些线都被钉在水上，因此它们都被水所遮蔽，从而无法看到。\n\n所以，这个谜语实际上是在问人们能否想象一下，在一个非常小的空间中，有那么多细长的线，如果全部都掉进了水里，那么哪一条线会被水所覆盖，而另一个条线会保留在水面上呢？",
+    "metrics": {
+      "ttft_ms": 1491.825819015503,
+      "tps": 8.210994934592685,
+      "tokens": 135,
+      "duration_s": 17.933195114135742,
+      "peak_mem_mb": 1850.53125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:24:46.040835",
+      "temp_start_c": 57.85,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C37",
+    "category": "Schedule",
+    "type": "Complex",
+    "prompt": "请为一个备考的学生制定一份周末复习时间表，包含语文、数学和休息。",
+    "response": "以下是一份周末复习时间表：\n\n**周日**\n\n* 9:00-10:30：语文复习 (每天都有40分钟)\n* 11:00-12:30：数学复习 (每天都有40分钟)\n* 13:00-15:00：休息\n* 15:30-17:00：语文复习 (重点复习难句、典型文句)\n* 18:00-20:00：数学复习 (重点复习难题)\n\n**周一**\n\n* 9:00-10:30：语文复习 (每天都有40分钟)\n* 11:00-12:30：数学复习 (每天都有40分钟)\n* 13:00-15:00：休息\n* 15:30-17:00：语文复习 (重点复习新词、典型句子)\n* 18:00-20:00：数学复习 (重点复习难题)\n\n**周二**\n\n* 9:00-10:30：语文复习 (每天都有40分钟)\n* 11:00-12:30：数学复习 (每天都有40分钟)\n* 13:00-15:00：休息\n* 15:30-17:00：语文复习 (重点复习新题目)\n* 18:00-20:00：数学复习 (重点复习难题)\n\n**周三**\n\n* 9:00-10:30：语文复习 (每天都有40分钟)\n* 11:00-12:30：数学复习 (每天都有40分钟)\n* 13:00-15:00：休息\n* 15:30-17:00：语文复习 (重点复习难句、典型文句)\n* 18:00-20:00：数学复习 (重点复习难题)\n\n**周四**\n\n* 9:00-10:30：语文复习 (每天都有40分钟)\n* 11:00-12:30：数学复习 (每天都有40分钟)\n* 13:00-15:00：休息\n* 15:30-17:00：语文复习 (重点复习新词、典型句子)\n* 18:00-20:00：数学复习 (重点复习难题)\n\n**周五**\n\n* 9:00-10:30：语文复习 (每天都有40分钟)\n* 11:00-12:30：数学复习 (每天都有40分钟)\n* 13:00-15:00：休息\n* 15:30-17:00：语文复习 (重点复习新题目)\n* 18:00-20:00：数学复习 (重点复习难题)\n\n**周六**\n\n* 9:00-12:00：语文复习 (重点复习新词、典型句子)\n* 13:00-15:00：休息\n* 16:00-18:00：数学复习 (重点复习难题)\n* 19:00-21:00：休息\n\n**周日**\n\n* 9:00-10:30：语文复习 (每天都有40分钟)\n* 11:00-12:30：数学复习 (每天都有40分钟)\n* 13:00-15:00：休息\n* 15:30-17:00：语文复习 (重点复习难句、典型文句)\n* 18:00-20:00：数学复习 (重点复习难题)\n\n**总计**\n\n周末总计：40-50分钟\n\n请 note : 这是一个示例时间表，实际上每天的时间可能会有所不同，根据个人需要和学习 pace调整。",
+    "metrics": {
+      "ttft_ms": 1312.4430179595947,
+      "tps": 7.368931334343599,
+      "tokens": 865,
+      "duration_s": 118.6971709728241,
+      "peak_mem_mb": 1863.140625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:26:45.040244",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C38",
+    "category": "Fact_Check",
+    "type": "Complex",
+    "prompt": "有人说‘月亮是自己发光的’，这句话对吗？请解释月亮的发光原理。",
+    "response": "月亮的发光实际上不是一种自然现象，而是一种光谱学现象。\n\n当阳光穿过月亮的表面时，它会受到月亮的表面表层中的氢氧化钙 (CaT) 的吸收。这种吸收是由于氢氧化钙的吸收线下方有一个低效发射线段，称为氢氧化钙-红外线（H2O-CR）。\n\n当阳光穿过月亮表面的氢氧化钙时，它会被吸收并转换为氢氧化钙-红外线。这些氢氧化钙-红外线可以通过月亮的表层传递到太空中，形成一个红外光谱。\n\n这个过程称为“月亮发光”。月亮的发光主要发生在低效光谱 band（从约1,700纳米到约3,000纳米之间），这种区域是由于氢氧化钙的吸收线下方具有较高的吸收效率。\n\n因此， moonlight不是一种自然现象，而是一种特定类型的光谱学现象。",
+    "metrics": {
+      "ttft_ms": 1353.0573844909668,
+      "tps": 8.213786156016859,
+      "tokens": 259,
+      "duration_s": 32.88540983200073,
+      "peak_mem_mb": 1858.65625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:27:18.227842",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C39",
+    "category": "Metaphor",
+    "type": "Complex",
+    "prompt": "请用比喻的手法描述‘时间’，写三个不同的句子。",
+    "response": "1. 时光流逝，留下了青铜的痕迹。\n\n2. 在岁月中，时间的流逝如同一场大演 rehearsal，前 curtain落幕后，仅剩下一个演出。\n\n3. 年年相往返，时间像一首歌 melody，依然能唤起心灵。",
+    "metrics": {
+      "ttft_ms": 1054.5756816864014,
+      "tps": 8.32003149108916,
+      "tokens": 77,
+      "duration_s": 10.309348344802856,
+      "peak_mem_mb": 1870.078125,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:27:28.940113",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  },
+  {
+    "sample_id": "C40",
+    "category": "Code_Review",
+    "type": "Complex",
+    "prompt": "代码 'x = 10; y = 0; print(x/y)' 运行时会发生什么错误？如何避免？",
+    "response": "代码中没有明显的语法错误，但可能存在运算表达式错误或错误数据传输问题。\n\n具体来说，这个代码可能会发生以下错误：\n\n1.  **除数为零**: 如果 `x` 为 0, then trying to divide by zero will raise a `ZeroDivisionError`. \n2.  **未明确的数据类型**: 在 Python中，`/` operator can only be used with two numeric operands. If you try to divide a string by another string or a non-numeric value, it will throw an error.\n3.  **未定义的变量或值**: 如果 `x` or `y` 是不定义的变量或值，则将会导致运行时错误。\n\n为避免这些问题，我们可以使用以下措施：\n\n*   使用 try-except块来尝试处理潜在的错误。\n*   检查变量是否是数字类型，以确保它们能够被用于运算。\n*   如果需要使用非数字值，使用适当的数据类型，例如集合或序列。\n\n以下是一些更具编程性和可靠性的例子：\n\n```python\ntry:\n    x = 10; y = 0; print(x / y)\nexcept ZeroDivisionError as e:\n    print(f\"错误：{e}\")\n\n# 如果x不是数字类型，会将 raise TypeError\ntry:\n    x = \"hello\"; y = 0; print(x / y)\nexcept (TypeError, ValueError) as e:\n    print(f\"错误：{e}\")\n```",
+    "metrics": {
+      "ttft_ms": 1383.9304447174072,
+      "tps": 8.157824633405939,
+      "tokens": 328,
+      "duration_s": 41.59072756767273,
+      "peak_mem_mb": 1859.140625,
+      "kernel_throttled_flag": false
+    },
+    "environment": {
+      "timestamp": "2026-03-25T23:28:10.833037",
+      "temp_start_c": 58.95,
+      "initial_throttle_status_hex": "0x0",
+      "waited_for_cooling": false
+    },
+    "status": {
+      "success": true,
+      "error": ""
+    },
+    "human_evaluation": {
+      "semantic_score": null,
+      "logic_score": null,
+      "hallucination_flag": null,
+      "completeness_check": null,
+      "notes": ""
+    }
+  }
+]

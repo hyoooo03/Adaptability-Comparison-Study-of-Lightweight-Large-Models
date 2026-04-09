@@ -1,0 +1,14 @@
+{
+  "timestamp_iso": "2026-03-25T22:42:21.450901",
+  "cpu_temp_c": 32.55,
+  "throttled_status_hex": "0x0",
+  "throttled_status_low16": 0,
+  "is_currently_throttled": false,
+  "ram_used_mb": 280.71875,
+  "model_name": "Llama3.2:1b",
+  "config": {
+    "cooldown_target_temp": 60.0,
+    "throttle_mask_hex": "0xe",
+    "target_samples": 100
+  }
+}

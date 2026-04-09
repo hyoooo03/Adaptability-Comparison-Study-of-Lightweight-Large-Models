@@ -1,0 +1,34 @@
+{
+  "timestamp_iso": "2026-03-23T00:41:12.199237",
+  "system_uptime_sec": 70.48,
+  "thermal": {
+    "cpu_temp_c": 37.5
+  },
+  "frequency": {
+    "cpu_freq_mhz": 2400.033792,
+    "nominal_limit_mhz": 2400,
+    "throttle_limit_mhz": 2280.0
+  },
+  "throttle_status": {
+    "raw_hex": "0x0",
+    "low_16_bits": 0,
+    "is_throttled": false,
+    "mask_used": "0xe"
+  },
+  "memory": {
+    "total_mb": 8062.9375,
+    "used_mb": 284.609375,
+    "free_mb": 7634.421875,
+    "available_mb": 7778.328125,
+    "buff_cache_mb": 209.015625,
+    "shared_mb": 13.828125
+  },
+  "gpu_estimate": {
+    "estimated_vram_usage_mb": 4,
+    "detection_method": "vcgencmd_get_mem"
+  },
+  "environment": {
+    "ambient_threshold_c": 45.0,
+    "test_duration_min": 15
+  }
+}

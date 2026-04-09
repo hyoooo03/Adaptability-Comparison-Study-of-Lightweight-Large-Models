@@ -1,0 +1,9 @@
+[
+  {
+    "type": "KERNEL_THROTTLE_FIRST",
+    "time_min": 8.396213225523631,
+    "freq": 2146.025344,
+    "temp": 85.35,
+    "note": "Detected via vcgencmd get_throttled flags"
+  }
+]
